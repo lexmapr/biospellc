@@ -1,0 +1,876 @@
+
+carediolgy	["[('cardiology', 0.9), ('cardiology]', 0.9), ('cardiology\\\\', 0.9), ('cardiology;', 0.9)]"]	cardiology	Changed	{'Corrected - Using MultiEdit Probable Candidates [carediolgy ==> cardiology]'}
+lugns	["[('lungs', 3.242532953254429e-06)]"]	lungs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lugns ==> lungs]'}
+lugns	["[('lungs', 3.242532953254429e-06)]"]	lungs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lugns ==> lungs]'}
+lugns	["[('lungs', 3.242532953254429e-06)]"]	lungs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lugns ==> lungs]'}
+lugns	["[('lungs', 3.242532953254429e-06)]"]	lungs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lugns ==> lungs]'}
+lugns	["[('lungs', 3.242532953254429e-06)]"]	lungs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lugns ==> lungs]'}
+ecchinocytes	["[('tenocytes', 0.9), ('meiocytes', 0.9), ('ionocytes', 0.9), ('schizocytes.', 0.9)]"]	tenocytes	Changed	{'Corrected - Using MultiEdit Probable Candidates [ecchinocytes ==> tenocytes]'}
+procuedure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procuedure ==> procedure]'}
+procuedure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procuedure ==> procedure]'}
+avening	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [avening ==> evening]'}
+avening	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [avening ==> evening]'}
+avening	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [avening ==> evening]'}
+enteracept	["[('intercept', 0.9), ('enterface', 0.9), ('interfacet', 0.9), ('intercepts', 0.9)]"]	intercept	Changed	{'Corrected - Using MultiEdit Probable Candidates [enteracept ==> intercept]'}
+enteracept	["[('intercept', 0.9), ('enterface', 0.9), ('interfacet', 0.9), ('intercepts', 0.9)]"]	intercept	Changed	{'Corrected - Using MultiEdit Probable Candidates [enteracept ==> intercept]'}
+enteracept	["[('intercept', 0.9), ('enterface', 0.9), ('interfacet', 0.9), ('intercepts', 0.9)]"]	intercept	Changed	{'Corrected - Using MultiEdit Probable Candidates [enteracept ==> intercept]'}
+hepaotology	["[('hepatology', 0.9), ('hepatology]', 0.9), ('hepatology.', 0.9), ('hepatology,', 0.9)]"]	hepatology	Changed	{'Corrected - Using MultiEdit Probable Candidates [hepaotology ==> hepatology]'}
+precipirtouskly	["[('precipitously', 0.9), ('precipitously.', 0.9), ('precipitous', 0.9), ('precipitous)', 0.9)]"]	precipitously	Changed	{'Corrected - Using MultiEdit Probable Candidates [precipirtouskly ==> precipitously]'}
+trachiotomy	["[('tracheotomy', 8.7921363132814e-06)]"]	tracheotomy	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [trachiotomy ==> tracheotomy]'}
+trachiotomy	["[('tracheotomy', 8.7921363132814e-06)]"]	tracheotomy	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [trachiotomy ==> tracheotomy]'}
+responsvie	["[('responsive', 1.6212664766272145e-06)]"]	responsive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [responsvie ==> responsive]'}
+responsvie	["[('responsive', 1.6212664766272145e-06)]"]	responsive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [responsvie ==> responsive]'}
+responsvie	["[('responsive', 1.6212664766272145e-06)]"]	responsive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [responsvie ==> responsive]'}
+responsvie	["[('responsive', 1.6212664766272145e-06)]"]	responsive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [responsvie ==> responsive]'}
+responsvie	["[('responsive', 1.6212664766272145e-06)]"]	responsive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [responsvie ==> responsive]'}
+intubwted	["[('intubated', 0.9), ('intubated.', 0.9), ('intubated,', 0.9), ('intubated)', 0.9)]"]	intubated	Changed	{'Corrected - Using MultiEdit Probable Candidates [intubwted ==> intubated]'}
+sunglottic	["[('subglottic', 5.674432668195251e-06)]"]	subglottic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sunglottic ==> subglottic]'}
+laternatively	["[('alternatively', 1.4653560522135668e-05)]"]	alternatively	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [laternatively ==> alternatively]'}
+pylenonephritis	["[('pyelonephritis', 0.9), ('pyelonephritis.', 0.9), ('pyelonephritis,', 0.9), ('pyelonephritis)', 0.9)]"]	pyelonephritis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pylenonephritis ==> pyelonephritis]'}
+pylenonephritis	["[('pyelonephritis', 0.9), ('pyelonephritis.', 0.9), ('pyelonephritis,', 0.9), ('pyelonephritis)', 0.9)]"]	pyelonephritis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pylenonephritis ==> pyelonephritis]'}
+pylenonephritis	["[('pyelonephritis', 0.9), ('pyelonephritis.', 0.9), ('pyelonephritis,', 0.9), ('pyelonephritis)', 0.9)]"]	pyelonephritis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pylenonephritis ==> pyelonephritis]'}
+pylenonephritis	["[('pyelonephritis', 0.9), ('pyelonephritis.', 0.9), ('pyelonephritis,', 0.9), ('pyelonephritis)', 0.9)]"]	pyelonephritis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pylenonephritis ==> pyelonephritis]'}
+pylenonephritis	["[('pyelonephritis', 0.9), ('pyelonephritis.', 0.9), ('pyelonephritis,', 0.9), ('pyelonephritis)', 0.9)]"]	pyelonephritis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pylenonephritis ==> pyelonephritis]'}
+increaseds	[]	increaseds	Same	{'Same- Token Exists in English Vocabulary [increaseds]'}
+increaseds	[]	increaseds	Same	{'Same- Token Exists in English Vocabulary [increaseds]'}
+qudrant	["[('quadrant', 7.336230806738145e-05)]"]	quadrant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [qudrant ==> quadrant]'}
+qudrant	["[('quadrant', 7.336230806738145e-05)]"]	quadrant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [qudrant ==> quadrant]'}
+qudrant	["[('quadrant', 7.336230806738145e-05)]"]	quadrant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [qudrant ==> quadrant]'}
+noteed	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noteed ==> noted]'}
+noteed	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noteed ==> noted]'}
+noteed	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noteed ==> noted]'}
+noteed	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noteed ==> noted]'}
+noteed	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noteed ==> noted]'}
+specil	["[('special', 3.445191262832831e-05)]"]	special	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [specil ==> special]'}
+distince	["[('distance', 5.269116049038447e-06)]"]	distance	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [distince ==> distance]'}
+distince	["[('distance', 5.269116049038447e-06)]"]	distance	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [distince ==> distance]'}
+hypokiinesis	["[('hypokinesis.', 0.9), ('hypokinesis,', 0.9), ('hypokinesia', 0.9), ('hypokinesia.', 0.9)]"]	hypokinesis.	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypokiinesis ==> hypokinesis.]'}
+hypokiinesis	["[('hypokinesis.', 0.9), ('hypokinesis,', 0.9), ('hypokinesia', 0.9), ('hypokinesia.', 0.9)]"]	hypokinesis.	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypokiinesis ==> hypokinesis.]'}
+hypercholesteromia	["[('hypercholesteremia', 4.0531661915680364e-07)]"]	hypercholesteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypercholesteromia ==> hypercholesteremia]'}
+hypercholesteromia	["[('hypercholesteremia', 4.0531661915680364e-07)]"]	hypercholesteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypercholesteromia ==> hypercholesteremia]'}
+hypercholesteromia	["[('hypercholesteremia', 4.0531661915680364e-07)]"]	hypercholesteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypercholesteromia ==> hypercholesteremia]'}
+hypercholesteromia	["[('hypercholesteremia', 4.0531661915680364e-07)]"]	hypercholesteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypercholesteromia ==> hypercholesteremia]'}
+hypercholesteromia	["[('hypercholesteremia', 4.0531661915680364e-07)]"]	hypercholesteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypercholesteromia ==> hypercholesteremia]'}
+supportvie	["[('supportive', 4.0531661915680364e-07)]"]	supportive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [supportvie ==> supportive]'}
+spenomegaly	["[('splenomegaly', 8.511649002292877e-06)]"]	splenomegaly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [spenomegaly ==> splenomegaly]'}
+spenomegaly	["[('splenomegaly', 8.511649002292877e-06)]"]	splenomegaly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [spenomegaly ==> splenomegaly]'}
+spenomegaly	["[('splenomegaly', 8.511649002292877e-06)]"]	splenomegaly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [spenomegaly ==> splenomegaly]'}
+spenomegaly	["[('splenomegaly', 8.511649002292877e-06)]"]	splenomegaly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [spenomegaly ==> splenomegaly]'}
+spenomegaly	["[('splenomegaly', 8.511649002292877e-06)]"]	splenomegaly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [spenomegaly ==> splenomegaly]'}
+antiarrrhythmics	["[('antiarrhythmics', 0.9), ('antiarrhythmic', 0.9), ('anti-arrhythmic', 0.9), ('antiarrhythmia,', 0.9)]"]	antiarrhythmics	Changed	{'Corrected - Using MultiEdit Probable Candidates [antiarrrhythmics ==> antiarrhythmics]'}
+antiarrrhythmics	["[('antiarrhythmics', 0.9), ('antiarrhythmic', 0.9), ('anti-arrhythmic', 0.9), ('antiarrhythmia,', 0.9)]"]	antiarrhythmics	Changed	{'Corrected - Using MultiEdit Probable Candidates [antiarrrhythmics ==> antiarrhythmics]'}
+reporteldy	["[('reportedly', 2.0514984730989937e-05)]"]	reportedly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [reporteldy ==> reportedly]'}
+reporteldy	["[('reportedly', 2.0514984730989937e-05)]"]	reportedly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [reporteldy ==> reportedly]'}
+reporteldy	["[('reportedly', 2.0514984730989937e-05)]"]	reportedly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [reporteldy ==> reportedly]'}
+reporteldy	["[('reportedly', 2.0514984730989937e-05)]"]	reportedly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [reporteldy ==> reportedly]'}
+reporteldy	["[('reportedly', 2.0514984730989937e-05)]"]	reportedly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [reporteldy ==> reportedly]'}
+myalgais	["[('myalgias', 0.9), ('myalgias.', 0.9), ('myalgias,', 0.9), ('myalgic', 0.9)]"]	myalgias	Changed	{'Corrected - Using MultiEdit Probable Candidates [myalgais ==> myalgias]'}
+imapenem	["[('imipenem', 8.106332383136073e-07)]"]	imipenem	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [imapenem ==> imipenem]'}
+imapenem	["[('imipenem', 8.106332383136073e-07)]"]	imipenem	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [imapenem ==> imipenem]'}
+imapenem	["[('imipenem', 8.106332383136073e-07)]"]	imipenem	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [imapenem ==> imipenem]'}
+placemedt	["[('placement', 1.6212664766272145e-06)]"]	placement	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [placemedt ==> placement]'}
+transducion	["[('transduction', 1.580734814711534e-05)]"]	transduction	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [transducion ==> transduction]'}
+supralilar	["[('suprasellar', 0.9), ('supra-linear', 0.9), ('suprailiac', 0.9), ('supraclavicular', 0.9)]"]	suprasellar	Changed	{'Corrected - Using MultiEdit Probable Candidates [supralilar ==> suprasellar]'}
+neoptlams	["[('neoplams', 0.9), ('neoplasms', 0.9), ('neoplasms»', 0.9), ('neoplasms<', 0.9)]"]	neoplams	Changed	{'Corrected - Using MultiEdit Probable Candidates [neoptlams ==> neoplams]'}
+umcomplicated	["[('uncomplicated', 3.0804063055917074e-05)]"]	uncomplicated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [umcomplicated ==> uncomplicated]'}
+umcomplicated	["[('uncomplicated', 3.0804063055917074e-05)]"]	uncomplicated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [umcomplicated ==> uncomplicated]'}
+umcomplicated	["[('uncomplicated', 3.0804063055917074e-05)]"]	uncomplicated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [umcomplicated ==> uncomplicated]'}
+umcomplicated	["[('uncomplicated', 3.0804063055917074e-05)]"]	uncomplicated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [umcomplicated ==> uncomplicated]'}
+umcomplicated	["[('uncomplicated', 3.0804063055917074e-05)]"]	uncomplicated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [umcomplicated ==> uncomplicated]'}
+arimdex	["[('arimidex)', 0.9), ('caridex', 0.9), ('camdex', 0.9), ('arimax', 0.9)]"]	arimidex)	Changed	{'Corrected - Using MultiEdit Probable Candidates [arimdex ==> arimidex)]'}
+arimdex	["[('arimidex)', 0.9), ('caridex', 0.9), ('camdex', 0.9), ('arimax', 0.9)]"]	arimidex)	Changed	{'Corrected - Using MultiEdit Probable Candidates [arimdex ==> arimidex)]'}
+arimdex	["[('arimidex)', 0.9), ('caridex', 0.9), ('camdex', 0.9), ('arimax', 0.9)]"]	arimidex)	Changed	{'Corrected - Using MultiEdit Probable Candidates [arimdex ==> arimidex)]'}
+arimdex	["[('arimidex)', 0.9), ('caridex', 0.9), ('camdex', 0.9), ('arimax', 0.9)]"]	arimidex)	Changed	{'Corrected - Using MultiEdit Probable Candidates [arimdex ==> arimidex)]'}
+arimdex	["[('arimidex)', 0.9), ('caridex', 0.9), ('camdex', 0.9), ('arimax', 0.9)]"]	arimidex)	Changed	{'Corrected - Using MultiEdit Probable Candidates [arimdex ==> arimidex)]'}
+acrss	["[('across', 8.106332383136073e-07)]"]	across	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acrss ==> across]'}
+acetazolamind	["[('acetazolamide', 0.9), ('acetazolamide;', 0.9), ('acetazolamide:', 0.9), ('acetazolamide.', 0.9)]"]	acetazolamide	Changed	{'Corrected - Using MultiEdit Probable Candidates [acetazolamind ==> acetazolamide]'}
+roccuronium	["[('rocuronium', 1.215949857470411e-06)]"]	rocuronium	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [roccuronium ==> rocuronium]'}
+sless	["[('less', 2.796684672181945e-05)]"]	less	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sless ==> less]'}
+aroound	["[('around', 1.459139828964493e-05)]"]	around	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aroound ==> around]'}
+aroound	["[('around', 1.459139828964493e-05)]"]	around	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aroound ==> around]'}
+aroound	["[('around', 1.459139828964493e-05)]"]	around	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aroound ==> around]'}
+aroound	["[('around', 1.459139828964493e-05)]"]	around	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aroound ==> around]'}
+aroound	["[('around', 1.459139828964493e-05)]"]	around	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aroound ==> around]'}
+concerntrate	["[('concentrate', 2.026583095784018e-06)]"]	concentrate	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [concerntrate ==> concentrate]'}
+demarginization	["[('marginalization', 0.9), ('demagnetization', 0.9), ('margination', 0.9), ('marginalization.', 0.9)]"]	marginalization	Changed	{'Corrected - Using MultiEdit Probable Candidates [demarginization ==> marginalization]'}
+demarginization	["[('marginalization', 0.9), ('demagnetization', 0.9), ('margination', 0.9), ('marginalization.', 0.9)]"]	marginalization	Changed	{'Corrected - Using MultiEdit Probable Candidates [demarginization ==> marginalization]'}
+hpatic	["[('hepatic', 0.00011956840265125707)]"]	hepatic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hpatic ==> hepatic]'}
+hpatic	["[('hepatic', 0.00011956840265125707)]"]	hepatic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hpatic ==> hepatic]'}
+hpatic	["[('hepatic', 0.00011956840265125707)]"]	hepatic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hpatic ==> hepatic]'}
+retroobital	["[('retro-orbital', 0.9), ('retrocostal', 0.9), ('extraorbital', 0.9), ('retroviral', 0.9)]"]	retro-orbital	Changed	{'Corrected - Using MultiEdit Probable Candidates [retroobital ==> retro-orbital]'}
+ferinosl	["[('ferruginol', 0.9), ('fepradinol', 0.9), ('ferns', 0.9), ('fernenol', 0.9)]"]	ferruginol	Changed	{'Corrected - Using MultiEdit Probable Candidates [ferinosl ==> ferruginol]'}
+systoilic	["[('systolic', 1.5402031527958537e-05)]"]	systolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [systoilic ==> systolic]'}
+systoilic	["[('systolic', 1.5402031527958537e-05)]"]	systolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [systoilic ==> systolic]'}
+systoilic	["[('systolic', 1.5402031527958537e-05)]"]	systolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [systoilic ==> systolic]'}
+systoilic	["[('systolic', 1.5402031527958537e-05)]"]	systolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [systoilic ==> systolic]'}
+hyyaline	["[('hyaline', 1.1754181955547305e-05)]"]	hyaline	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hyyaline ==> hyaline]'}
+ferriecit	["[('ferric', 0.9), ('ferret', 0.9), ('ferroic', 0.9), ('ferrite', 0.9)]"]	ferric	Changed	{'Corrected - Using MultiEdit Probable Candidates [ferriecit ==> ferric]'}
+claoric	["[('caloric', 3.6478495724112327e-06)]"]	caloric	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [claoric ==> caloric]'}
+claoric	["[('caloric', 3.6478495724112327e-06)]"]	caloric	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [claoric ==> caloric]'}
+claoric	["[('caloric', 3.6478495724112327e-06)]"]	caloric	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [claoric ==> caloric]'}
+claoric	["[('caloric', 3.6478495724112327e-06)]"]	caloric	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [claoric ==> caloric]'}
+claoric	["[('caloric', 3.6478495724112327e-06)]"]	caloric	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [claoric ==> caloric]'}
+ankld	["[('ankle', 0.0004717885446985194)]"]	ankle	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ankld ==> ankle]'}
+desature	["[('desaturase', 0.9), ('desaturated', 0.9), ('desaturases', 0.9), ('desaturase.', 0.9)]"]	desaturase	Changed	{'Corrected - Using MultiEdit Probable Candidates [desature ==> desaturase]'}
+cyclorsporin	["[('cyclosporin', 6.485065906508858e-06)]"]	cyclosporin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cyclorsporin ==> cyclosporin]'}
+cyclorsporin	["[('cyclosporin', 6.485065906508858e-06)]"]	cyclosporin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cyclorsporin ==> cyclosporin]'}
+cyclorsporin	["[('cyclosporin', 6.485065906508858e-06)]"]	cyclosporin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cyclorsporin ==> cyclosporin]'}
+rgoins	["[('robins', 0.9), ('groins', 0.9), ('rons', 0.9), ('rois', 0.9)]"]	robins	Changed	{'Corrected - Using MultiEdit Probable Candidates [rgoins ==> robins]'}
+bacteremis	["[('bacteremia', 2.026583095784018e-06)]"]	bacteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bacteremis ==> bacteremia]'}
+bacteremis	["[('bacteremia', 2.026583095784018e-06)]"]	bacteremia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bacteremis ==> bacteremia]'}
+sympots	["[('symport', 0.9), ('spots', 0.9), ('symptoms', 0.9), ('symposia', 0.9)]"]	symport	Changed	{'Corrected - Using MultiEdit Probable Candidates [sympots ==> symport]'}
+comminted	["[('comminuted', 2.2697730672781004e-05), ('committed', 1.6212664766272145e-06)]"]	comminuted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [comminted ==> comminuted]'}
+comminted	["[('comminuted', 2.2697730672781004e-05), ('committed', 1.6212664766272145e-06)]"]	comminuted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [comminted ==> comminuted]'}
+signl	["[('signs', 4.7422044441346024e-05), ('signal', 2.3103047291937807e-05), ('sign', 1.7428614623742556e-05)]"]	signs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [signl ==> signs]'}
+signl	["[('signs', 4.7422044441346024e-05), ('signal', 2.3103047291937807e-05), ('sign', 1.7428614623742556e-05)]"]	signs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [signl ==> signs]'}
+signl	["[('signs', 4.7422044441346024e-05), ('signal', 2.3103047291937807e-05), ('sign', 1.7428614623742556e-05)]"]	signs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [signl ==> signs]'}
+signl	["[('signs', 4.7422044441346024e-05), ('signal', 2.3103047291937807e-05), ('sign', 1.7428614623742556e-05)]"]	signs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [signl ==> signs]'}
+extcretion	["[('excretion', 8.91696562144968e-06)]"]	excretion	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [extcretion ==> excretion]'}
+ssigns	["[('signs', 4.7422044441346024e-05)]"]	signs	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ssigns ==> signs]'}
+incontinenece	["[('incontinence', 2.3103047291937807e-05)]"]	incontinence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incontinenece ==> incontinence]'}
+incontinenece	["[('incontinence', 2.3103047291937807e-05)]"]	incontinence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incontinenece ==> incontinence]'}
+incontinenece	["[('incontinence', 2.3103047291937807e-05)]"]	incontinence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incontinenece ==> incontinence]'}
+incontinenece	["[('incontinence', 2.3103047291937807e-05)]"]	incontinence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incontinenece ==> incontinence]'}
+incontinenece	["[('incontinence', 2.3103047291937807e-05)]"]	incontinence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incontinenece ==> incontinence]'}
+vaspopressin	["[('vasopressin', 2.026583095784018e-06)]"]	vasopressin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [vaspopressin ==> vasopressin]'}
+vaspopressin	["[('vasopressin', 2.026583095784018e-06)]"]	vasopressin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [vaspopressin ==> vasopressin]'}
+vaspopressin	["[('vasopressin', 2.026583095784018e-06)]"]	vasopressin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [vaspopressin ==> vasopressin]'}
+regurtitation	["[('regurgitation', 6.890382525665661e-06)]"]	regurgitation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [regurtitation ==> regurgitation]'}
+regurtitation	["[('regurgitation', 6.890382525665661e-06)]"]	regurgitation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [regurtitation ==> regurgitation]'}
+regurtitation	["[('regurgitation', 6.890382525665661e-06)]"]	regurgitation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [regurtitation ==> regurgitation]'}
+thalasemmia	["[('thalassemia', 0.9), ('thalassemias', 0.9), ('thalassemia<', 0.9), ('thalassemia.', 0.9)]"]	thalassemia	Changed	{'Corrected - Using MultiEdit Probable Candidates [thalasemmia ==> thalassemia]'}
+thalasemmia	["[('thalassemia', 0.9), ('thalassemias', 0.9), ('thalassemia<', 0.9), ('thalassemia.', 0.9)]"]	thalassemia	Changed	{'Corrected - Using MultiEdit Probable Candidates [thalasemmia ==> thalassemia]'}
+thalasemmia	["[('thalassemia', 0.9), ('thalassemias', 0.9), ('thalassemia<', 0.9), ('thalassemia.', 0.9)]"]	thalassemia	Changed	{'Corrected - Using MultiEdit Probable Candidates [thalasemmia ==> thalassemia]'}
+thalasemmia	["[('thalassemia', 0.9), ('thalassemias', 0.9), ('thalassemia<', 0.9), ('thalassemia.', 0.9)]"]	thalassemia	Changed	{'Corrected - Using MultiEdit Probable Candidates [thalasemmia ==> thalassemia]'}
+incrrease	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrrease ==> increase]'}
+incrrease	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrrease ==> increase]'}
+incrrease	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrrease ==> increase]'}
+incrrease	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrrease ==> increase]'}
+incrrease	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrrease ==> increase]'}
+rtotated	["[('rotated', 4.053166191568036e-06)]"]	rotated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [rtotated ==> rotated]'}
+accordnace	["[('accordance', 5.8614242088542675e-06)]"]	accordance	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [accordnace ==> accordance]'}
+backgroun	["[('background', 2.026583095784018e-06)]"]	background	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [backgroun ==> background]'}
+backgroun	["[('background', 2.026583095784018e-06)]"]	background	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [backgroun ==> background]'}
+backgroun	["[('background', 2.026583095784018e-06)]"]	background	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [backgroun ==> background]'}
+constusions	["[('contusions', 2.9307121044271338e-06)]"]	contusions	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [constusions ==> contusions]'}
+constusions	["[('contusions', 2.9307121044271338e-06)]"]	contusions	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [constusions ==> contusions]'}
+constusions	["[('contusions', 2.9307121044271338e-06)]"]	contusions	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [constusions ==> contusions]'}
+iatrogentic	["[('iatrogenic', 4.053166191568036e-06)]"]	iatrogenic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [iatrogentic ==> iatrogenic]'}
+iatrogentic	["[('iatrogenic', 4.053166191568036e-06)]"]	iatrogenic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [iatrogentic ==> iatrogenic]'}
+iatrogentic	["[('iatrogenic', 4.053166191568036e-06)]"]	iatrogenic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [iatrogentic ==> iatrogenic]'}
+iatrogentic	["[('iatrogenic', 4.053166191568036e-06)]"]	iatrogenic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [iatrogentic ==> iatrogenic]'}
+iatrogentic	["[('iatrogenic', 4.053166191568036e-06)]"]	iatrogenic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [iatrogentic ==> iatrogenic]'}
+hmeithorax	["[('hemithorax', 0.9), ('hemithorax.', 0.9), ('hemi-thorax.', 0.9), ('mesothorax', 0.9)]"]	hemithorax	Changed	{'Corrected - Using MultiEdit Probable Candidates [hmeithorax ==> hemithorax]'}
+requirs	["[('require', 1.6212664766272145e-06), ('requires', 1.6212664766272145e-06)]"]	require	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [requirs ==> require]'}
+requirs	["[('require', 1.6212664766272145e-06), ('requires', 1.6212664766272145e-06)]"]	require	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [requirs ==> require]'}
+requirs	["[('require', 1.6212664766272145e-06), ('requires', 1.6212664766272145e-06)]"]	require	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [requirs ==> require]'}
+requirs	["[('require', 1.6212664766272145e-06), ('requires', 1.6212664766272145e-06)]"]	require	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [requirs ==> require]'}
+requirs	["[('require', 1.6212664766272145e-06), ('requires', 1.6212664766272145e-06)]"]	require	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [requirs ==> require]'}
+chheks	["[('cheeks', 1.215949857470411e-06)]"]	cheeks	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chheks ==> cheeks]'}
+chheks	["[('cheeks', 1.215949857470411e-06)]"]	cheeks	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chheks ==> cheeks]'}
+confuson	["[('confusion', 4.863799429881644e-06)]"]	confusion	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [confuson ==> confusion]'}
+confuson	["[('confusion', 4.863799429881644e-06)]"]	confusion	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [confuson ==> confusion]'}
+confuson	["[('confusion', 4.863799429881644e-06)]"]	confusion	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [confuson ==> confusion]'}
+peunothorax	["[('pneumothorax', 0.9), ('pneumothorax:', 0.9), ('pneumothorax.', 0.9), ('pneumothorax,', 0.9)]"]	pneumothorax	Changed	{'Corrected - Using MultiEdit Probable Candidates [peunothorax ==> pneumothorax]'}
+fibros	[]	fibros	Same	{'Same- Token Exists in English Vocabulary [fibros]'}
+fibros	[]	fibros	Same	{'Same- Token Exists in English Vocabulary [fibros]'}
+fibros	[]	fibros	Same	{'Same- Token Exists in English Vocabulary [fibros]'}
+mininutes	["[('minutes', 0.9), ('insinuates', 0.9), ('minutes]', 0.9), ('minutes\\\\', 0.9)]"]	minutes	Changed	{'Corrected - Using MultiEdit Probable Candidates [mininutes ==> minutes]'}
+mininutes	["[('minutes', 0.9), ('insinuates', 0.9), ('minutes]', 0.9), ('minutes\\\\', 0.9)]"]	minutes	Changed	{'Corrected - Using MultiEdit Probable Candidates [mininutes ==> minutes]'}
+mininutes	["[('minutes', 0.9), ('insinuates', 0.9), ('minutes]', 0.9), ('minutes\\\\', 0.9)]"]	minutes	Changed	{'Corrected - Using MultiEdit Probable Candidates [mininutes ==> minutes]'}
+mininutes	["[('minutes', 0.9), ('insinuates', 0.9), ('minutes]', 0.9), ('minutes\\\\', 0.9)]"]	minutes	Changed	{'Corrected - Using MultiEdit Probable Candidates [mininutes ==> minutes]'}
+dehiscnece	["[('dehiscence', 8.106332383136072e-06)]"]	dehiscence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [dehiscnece ==> dehiscence]'}
+hydorcele	["[('hydrocele', 5.674432668195251e-06)]"]	hydrocele	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hydorcele ==> hydrocele]'}
+hydorcele	["[('hydrocele', 5.674432668195251e-06)]"]	hydrocele	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hydorcele ==> hydrocele]'}
+aprropriately	["[('appropriately', 4.0531661915680364e-07)]"]	appropriately	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aprropriately ==> appropriately]'}
+aprropriately	["[('appropriately', 4.0531661915680364e-07)]"]	appropriately	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aprropriately ==> appropriately]'}
+aprropriately	["[('appropriately', 4.0531661915680364e-07)]"]	appropriately	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aprropriately ==> appropriately]'}
+aprropriately	["[('appropriately', 4.0531661915680364e-07)]"]	appropriately	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aprropriately ==> appropriately]'}
+aprropriately	["[('appropriately', 4.0531661915680364e-07)]"]	appropriately	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aprropriately ==> appropriately]'}
+psteroids	["[('steroids', 3.242532953254429e-06)]"]	steroids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [psteroids ==> steroids]'}
+prosatectomy	["[('prostatectomy', 8.106332383136073e-07)]"]	prostatectomy	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [prosatectomy ==> prostatectomy]'}
+prosatectomy	["[('prostatectomy', 8.106332383136073e-07)]"]	prostatectomy	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [prosatectomy ==> prostatectomy]'}
+popletial	["[('potential', 0.9), ('popliteal', 0.9), ('political', 0.9), ('propanethial', 0.9)]"]	potential	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletial ==> potential]'}
+popletial	["[('potential', 0.9), ('popliteal', 0.9), ('political', 0.9), ('propanethial', 0.9)]"]	potential	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletial ==> potential]'}
+popletial	["[('potential', 0.9), ('popliteal', 0.9), ('political', 0.9), ('propanethial', 0.9)]"]	potential	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletial ==> potential]'}
+popletial	["[('potential', 0.9), ('popliteal', 0.9), ('political', 0.9), ('propanethial', 0.9)]"]	potential	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletial ==> potential]'}
+popletial	["[('potential', 0.9), ('popliteal', 0.9), ('political', 0.9), ('propanethial', 0.9)]"]	potential	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletial ==> potential]'}
+intuabte	["[('intubate', 0.9), ('intubated', 0.9), ('situate', 0.9), ('in-tube', 0.9)]"]	intubate	Changed	{'Corrected - Using MultiEdit Probable Candidates [intuabte ==> intubate]'}
+intuabte	["[('intubate', 0.9), ('intubated', 0.9), ('situate', 0.9), ('in-tube', 0.9)]"]	intubate	Changed	{'Corrected - Using MultiEdit Probable Candidates [intuabte ==> intubate]'}
+femerals	["[('femoral', 0.9), ('females', 0.9), ('federal', 0.9), ('emerald', 0.9)]"]	femoral	Changed	{'Corrected - Using MultiEdit Probable Candidates [femerals ==> femoral]'}
+femerals	["[('femoral', 0.9), ('females', 0.9), ('federal', 0.9), ('emerald', 0.9)]"]	femoral	Changed	{'Corrected - Using MultiEdit Probable Candidates [femerals ==> femoral]'}
+popletieal	["[('popliteal', 0.9), ('popliteal,', 0.9), ('potentiel', 0.9), ('potential', 0.9)]"]	popliteal	Changed	{'Corrected - Using MultiEdit Probable Candidates [popletieal ==> popliteal]'}
+sensarion	["[('sensation', 1.5402031527958537e-05)]"]	sensation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sensarion ==> sensation]'}
+thryohyoid	["[('thyrohyoid', 2.431899714940822e-06)]"]	thyrohyoid	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [thryohyoid ==> thyrohyoid]'}
+thryohyoid	["[('thyrohyoid', 2.431899714940822e-06)]"]	thyrohyoid	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [thryohyoid ==> thyrohyoid]'}
+thryohyoid	["[('thyrohyoid', 2.431899714940822e-06)]"]	thyrohyoid	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [thryohyoid ==> thyrohyoid]'}
+dicarded	["[('discarded', 0.9), ('discarded.', 0.9), ('discarded,', 0.9), ('discarded)', 0.9)]"]	discarded	Changed	{'Corrected - Using MultiEdit Probable Candidates [dicarded ==> discarded]'}
+dicarded	["[('discarded', 0.9), ('discarded.', 0.9), ('discarded,', 0.9), ('discarded)', 0.9)]"]	discarded	Changed	{'Corrected - Using MultiEdit Probable Candidates [dicarded ==> discarded]'}
+dicarded	["[('discarded', 0.9), ('discarded.', 0.9), ('discarded,', 0.9), ('discarded)', 0.9)]"]	discarded	Changed	{'Corrected - Using MultiEdit Probable Candidates [dicarded ==> discarded]'}
+dicarded	["[('discarded', 0.9), ('discarded.', 0.9), ('discarded,', 0.9), ('discarded)', 0.9)]"]	discarded	Changed	{'Corrected - Using MultiEdit Probable Candidates [dicarded ==> discarded]'}
+dicarded	["[('discarded', 0.9), ('discarded.', 0.9), ('discarded,', 0.9), ('discarded)', 0.9)]"]	discarded	Changed	{'Corrected - Using MultiEdit Probable Candidates [dicarded ==> discarded]'}
+palitave	["[('palmitate', 0.9), ('psalliotae', 0.9), ('palmitate;', 0.9), ('palmitate.', 0.9)]"]	palmitate	Changed	{'Corrected - Using MultiEdit Probable Candidates [palitave ==> palmitate]'}
+mucoiud	["[('mucoid', 6.079749287352054e-06)]"]	mucoid	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mucoiud ==> mucoid]'}
+drianable	["[('diagnosable', 0.9), ('trainable', 0.9), ('printable', 0.9), ('diakonale', 0.9)]"]	diagnosable	Changed	{'Corrected - Using MultiEdit Probable Candidates [drianable ==> diagnosable]'}
+respoding	["[('responding', 0.9), ('responding;', 0.9), ('responding.', 0.9), ('responding,', 0.9)]"]	responding	Changed	{'Corrected - Using MultiEdit Probable Candidates [respoding ==> responding]'}
+respoding	["[('responding', 0.9), ('responding;', 0.9), ('responding.', 0.9), ('responding,', 0.9)]"]	responding	Changed	{'Corrected - Using MultiEdit Probable Candidates [respoding ==> responding]'}
+respoding	["[('responding', 0.9), ('responding;', 0.9), ('responding.', 0.9), ('responding,', 0.9)]"]	responding	Changed	{'Corrected - Using MultiEdit Probable Candidates [respoding ==> responding]'}
+respoding	["[('responding', 0.9), ('responding;', 0.9), ('responding.', 0.9), ('responding,', 0.9)]"]	responding	Changed	{'Corrected - Using MultiEdit Probable Candidates [respoding ==> responding]'}
+respoding	["[('responding', 0.9), ('responding;', 0.9), ('responding.', 0.9), ('responding,', 0.9)]"]	responding	Changed	{'Corrected - Using MultiEdit Probable Candidates [respoding ==> responding]'}
+invadses	["[('invades', 0.9), ('invaders', 0.9), ('invadens', 0.9), ('invade', 0.9)]"]	invades	Changed	{'Corrected - Using MultiEdit Probable Candidates [invadses ==> invades]'}
+resutlts	["[('results', 1.013291547892009e-05)]"]	results	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [resutlts ==> results]'}
+exctration	["[('extraction', 0.9), ('execration', 0.9), ('excitation', 0.9), ('expectoration', 0.9)]"]	extraction	Changed	{'Corrected - Using MultiEdit Probable Candidates [exctration ==> extraction]'}
+agglutin	["[('agglutinin', 0.9), ('agglutinins', 0.9), ('agglutinin.', 0.9), ('agglutinin,', 0.9)]"]	agglutinin	Changed	{'Corrected - Using MultiEdit Probable Candidates [agglutin ==> agglutinin]'}
+agglutin	["[('agglutinin', 0.9), ('agglutinins', 0.9), ('agglutinin.', 0.9), ('agglutinin,', 0.9)]"]	agglutinin	Changed	{'Corrected - Using MultiEdit Probable Candidates [agglutin ==> agglutinin]'}
+agglutin	["[('agglutinin', 0.9), ('agglutinins', 0.9), ('agglutinin.', 0.9), ('agglutinin,', 0.9)]"]	agglutinin	Changed	{'Corrected - Using MultiEdit Probable Candidates [agglutin ==> agglutinin]'}
+vasoleine	["[('gasoline', 0.9), ('vasodentine', 0.9), ('valine', 0.9), ('vasocrine', 0.9)]"]	gasoline	Changed	{'Corrected - Using MultiEdit Probable Candidates [vasoleine ==> gasoline]'}
+eosoniphils	["[('eosinophils', 0.9), ('eosinophils;', 0.9), ('eosinophils:', 0.9), ('eosinophils.', 0.9)]"]	eosinophils	Changed	{'Corrected - Using MultiEdit Probable Candidates [eosoniphils ==> eosinophils]'}
+eosoniphils	["[('eosinophils', 0.9), ('eosinophils;', 0.9), ('eosinophils:', 0.9), ('eosinophils.', 0.9)]"]	eosinophils	Changed	{'Corrected - Using MultiEdit Probable Candidates [eosoniphils ==> eosinophils]'}
+eosoniphils	["[('eosinophils', 0.9), ('eosinophils;', 0.9), ('eosinophils:', 0.9), ('eosinophils.', 0.9)]"]	eosinophils	Changed	{'Corrected - Using MultiEdit Probable Candidates [eosoniphils ==> eosinophils]'}
+hopitilization	["[('hospitalization', 0.9), ('hospitalizations', 0.9), ('hospitalization]', 0.9), ('hospitalization?', 0.9)]"]	hospitalization	Changed	{'Corrected - Using MultiEdit Probable Candidates [hopitilization ==> hospitalization]'}
+nygstamus	["[('nystagmus', 0.9), ('nystagmus]', 0.9), ('nystagmus;', 0.9), ('nystagmus:', 0.9)]"]	nystagmus	Changed	{'Corrected - Using MultiEdit Probable Candidates [nygstamus ==> nystagmus]'}
+diurises	["[('irises', 0.9), ('disguises', 0.9), ('diaries', 0.9), ('dairies', 0.9)]"]	irises	Changed	{'Corrected - Using MultiEdit Probable Candidates [diurises ==> irises]'}
+diurises	["[('irises', 0.9), ('disguises', 0.9), ('diaries', 0.9), ('dairies', 0.9)]"]	irises	Changed	{'Corrected - Using MultiEdit Probable Candidates [diurises ==> irises]'}
+diurises	["[('irises', 0.9), ('disguises', 0.9), ('diaries', 0.9), ('dairies', 0.9)]"]	irises	Changed	{'Corrected - Using MultiEdit Probable Candidates [diurises ==> irises]'}
+diurises	["[('irises', 0.9), ('disguises', 0.9), ('diaries', 0.9), ('dairies', 0.9)]"]	irises	Changed	{'Corrected - Using MultiEdit Probable Candidates [diurises ==> irises]'}
+nutritio	["[('nutrition', 2.026583095784018e-06)]"]	nutrition	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nutritio ==> nutrition]'}
+nutritio	["[('nutrition', 2.026583095784018e-06)]"]	nutrition	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nutritio ==> nutrition]'}
+pevlic	["[('pelvic', 0.00015280436542211497)]"]	pelvic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pevlic ==> pelvic]'}
+pevlic	["[('pelvic', 0.00015280436542211497)]"]	pelvic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pevlic ==> pelvic]'}
+pevlic	["[('pelvic', 0.00015280436542211497)]"]	pelvic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pevlic ==> pelvic]'}
+pevlic	["[('pelvic', 0.00015280436542211497)]"]	pelvic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pevlic ==> pelvic]'}
+pevlic	["[('pelvic', 0.00015280436542211497)]"]	pelvic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pevlic ==> pelvic]'}
+syndomre	["[('syndome', 0.9), ('syndrome', 0.9), ('syndrome»', 0.9), ('syndromes', 0.9)]"]	syndome	Changed	{'Corrected - Using MultiEdit Probable Candidates [syndomre ==> syndome]'}
+syndomre	["[('syndome', 0.9), ('syndrome', 0.9), ('syndrome»', 0.9), ('syndromes', 0.9)]"]	syndome	Changed	{'Corrected - Using MultiEdit Probable Candidates [syndomre ==> syndome]'}
+syndomre	["[('syndome', 0.9), ('syndrome', 0.9), ('syndrome»', 0.9), ('syndromes', 0.9)]"]	syndome	Changed	{'Corrected - Using MultiEdit Probable Candidates [syndomre ==> syndome]'}
+syndomre	["[('syndome', 0.9), ('syndrome', 0.9), ('syndrome»', 0.9), ('syndromes', 0.9)]"]	syndome	Changed	{'Corrected - Using MultiEdit Probable Candidates [syndomre ==> syndome]'}
+syndomre	["[('syndome', 0.9), ('syndrome', 0.9), ('syndrome»', 0.9), ('syndromes', 0.9)]"]	syndome	Changed	{'Corrected - Using MultiEdit Probable Candidates [syndomre ==> syndome]'}
+tomorrowpt	["[('tomorrow', 0.9), ('tomorrow?', 0.9), ('tomorrow<', 0.9), ('tomorrow.', 0.9)]"]	tomorrow	Changed	{'Corrected - Using MultiEdit Probable Candidates [tomorrowpt ==> tomorrow]'}
+respiraoty	["[('respiratory', 0.9), ('respirometry', 0.9), ('respiratory]', 0.9), ('respiratory/', 0.9)]"]	respiratory	Changed	{'Corrected - Using MultiEdit Probable Candidates [respiraoty ==> respiratory]'}
+respiraoty	["[('respiratory', 0.9), ('respirometry', 0.9), ('respiratory]', 0.9), ('respiratory/', 0.9)]"]	respiratory	Changed	{'Corrected - Using MultiEdit Probable Candidates [respiraoty ==> respiratory]'}
+respiraoty	["[('respiratory', 0.9), ('respirometry', 0.9), ('respiratory]', 0.9), ('respiratory/', 0.9)]"]	respiratory	Changed	{'Corrected - Using MultiEdit Probable Candidates [respiraoty ==> respiratory]'}
+respiraoty	["[('respiratory', 0.9), ('respirometry', 0.9), ('respiratory]', 0.9), ('respiratory/', 0.9)]"]	respiratory	Changed	{'Corrected - Using MultiEdit Probable Candidates [respiraoty ==> respiratory]'}
+respiraoty	["[('respiratory', 0.9), ('respirometry', 0.9), ('respiratory]', 0.9), ('respiratory/', 0.9)]"]	respiratory	Changed	{'Corrected - Using MultiEdit Probable Candidates [respiraoty ==> respiratory]'}
+pupilarry	["[('pupillary', 0.9), ('pupillary,', 0.9), ('papillary', 0.9), ('pupilla', 0.9)]"]	pupillary	Changed	{'Corrected - Using MultiEdit Probable Candidates [pupilarry ==> pupillary]'}
+pupilarry	["[('pupillary', 0.9), ('pupillary,', 0.9), ('papillary', 0.9), ('pupilla', 0.9)]"]	pupillary	Changed	{'Corrected - Using MultiEdit Probable Candidates [pupilarry ==> pupillary]'}
+desceased	["[('deceased', 2.0514984730989937e-05)]"]	deceased	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [desceased ==> deceased]'}
+desceased	["[('deceased', 2.0514984730989937e-05)]"]	deceased	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [desceased ==> deceased]'}
+desceased	["[('deceased', 2.0514984730989937e-05)]"]	deceased	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [desceased ==> deceased]'}
+rflex	["[('reflex', 2.796684672181945e-05)]"]	reflex	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [rflex ==> reflex]'}
+rflex	["[('reflex', 2.796684672181945e-05)]"]	reflex	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [rflex ==> reflex]'}
+miacalicin	["[('macacine', 0.9), ('miraculin', 0.9), ('karalicin', 0.9), ('alcaligin', 0.9)]"]	macacine	Changed	{'Corrected - Using MultiEdit Probable Candidates [miacalicin ==> macacine]'}
+sliglhtly	["[('slightly', 2.344569683541707e-05)]"]	slightly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [sliglhtly ==> slightly]'}
+sliglhtly	["[('slightly', 2.344569683541707e-05)]"]	slightly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [sliglhtly ==> slightly]'}
+fionger	["[('finger', 0.0006582341895106491)]"]	finger	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [fionger ==> finger]'}
+prblm	["[('problem', 0.9), ('prbm.', 0.9), ('problems', 0.9), ('problem]', 0.9)]"]	problem	Changed	{'Corrected - Using MultiEdit Probable Candidates [prblm ==> problem]'}
+prblm	["[('problem', 0.9), ('prbm.', 0.9), ('problems', 0.9), ('problem]', 0.9)]"]	problem	Changed	{'Corrected - Using MultiEdit Probable Candidates [prblm ==> problem]'}
+prblm	["[('problem', 0.9), ('prbm.', 0.9), ('problems', 0.9), ('problem]', 0.9)]"]	problem	Changed	{'Corrected - Using MultiEdit Probable Candidates [prblm ==> problem]'}
+glarigine	["[('glargine', 0.9), ('lamotrigine', 0.9), ('laurifine', 0.9), ('glabridin', 0.9)]"]	glargine	Changed	{'Corrected - Using MultiEdit Probable Candidates [glarigine ==> glargine]'}
+glarigine	["[('glargine', 0.9), ('lamotrigine', 0.9), ('laurifine', 0.9), ('glabridin', 0.9)]"]	glargine	Changed	{'Corrected - Using MultiEdit Probable Candidates [glarigine ==> glargine]'}
+strcture	["[('structure', 0.00014023955022825406), ('stricture', 3.120937967507388e-05)]"]	structure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [strcture ==> structure]'}
+atazanzvir	["[('atazanavir', 8.106332383136073e-07)]"]	atazanavir	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [atazanzvir ==> atazanavir]'}
+readins	["[('reading', 3.6478495724112327e-06)]"]	reading	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [readins ==> reading]'}
+readins	["[('reading', 3.6478495724112327e-06)]"]	reading	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [readins ==> reading]'}
+ureteteral	["[('ureteral', 0.9), ('urethral', 0.9), ('subureteral', 0.9), ('midureteral', 0.9)]"]	ureteral	Changed	{'Corrected - Using MultiEdit Probable Candidates [ureteteral ==> ureteral]'}
+pleurodeses	["[('pleurodesis', 0.9), ('pleurodeles', 0.9), ('pleurodesis.', 0.9), ('pleurodesis,', 0.9)]"]	pleurodesis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pleurodeses ==> pleurodesis]'}
+pleurodeses	["[('pleurodesis', 0.9), ('pleurodeles', 0.9), ('pleurodesis.', 0.9), ('pleurodesis,', 0.9)]"]	pleurodesis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pleurodeses ==> pleurodesis]'}
+pleurodeses	["[('pleurodesis', 0.9), ('pleurodeles', 0.9), ('pleurodesis.', 0.9), ('pleurodesis,', 0.9)]"]	pleurodesis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pleurodeses ==> pleurodesis]'}
+pleurodeses	["[('pleurodesis', 0.9), ('pleurodeles', 0.9), ('pleurodesis.', 0.9), ('pleurodesis,', 0.9)]"]	pleurodesis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pleurodeses ==> pleurodesis]'}
+pleurodeses	["[('pleurodesis', 0.9), ('pleurodeles', 0.9), ('pleurodesis.', 0.9), ('pleurodesis,', 0.9)]"]	pleurodesis	Changed	{'Corrected - Using MultiEdit Probable Candidates [pleurodeses ==> pleurodesis]'}
+hematc	["[('hematic', 0.9), ('thematic', 0.9), ('thematics', 0.9), ('thematic/', 0.9)]"]	hematic	Changed	{'Corrected - Using MultiEdit Probable Candidates [hematc ==> hematic]'}
+adenapathy	["[('adenopathy', 1.215949857470411e-06)]"]	adenopathy	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adenapathy ==> adenopathy]'}
+drainags	["[('drainage', 5.269116049038447e-06)]"]	drainage	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [drainags ==> drainage]'}
+drainags	["[('drainage', 5.269116049038447e-06)]"]	drainage	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [drainags ==> drainage]'}
+drainags	["[('drainage', 5.269116049038447e-06)]"]	drainage	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [drainags ==> drainage]'}
+drainags	["[('drainage', 5.269116049038447e-06)]"]	drainage	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [drainags ==> drainage]'}
+partcipate	["[('participate', 1.1722848417708535e-05)]"]	participate	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [partcipate ==> participate]'}
+cortonary	["[('coronary', 0.00012159498574704108)]"]	coronary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cortonary ==> coronary]'}
+cortonary	["[('coronary', 0.00012159498574704108)]"]	coronary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cortonary ==> coronary]'}
+cortonary	["[('coronary', 0.00012159498574704108)]"]	coronary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cortonary ==> coronary]'}
+cerruloplasm	["[('ceruloplasmin', 0.9), ('ceruloplasmin.', 0.9), ('ceruloplasmin,', 0.9), ('caeruloplasmin', 0.9)]"]	ceruloplasmin	Changed	{'Corrected - Using MultiEdit Probable Candidates [cerruloplasm ==> ceruloplasmin]'}
+adiitionally	["[('additionally', 3.809925735755274e-05)]"]	additionally	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [adiitionally ==> additionally]'}
+induartion	["[('induration', 2.431899714940822e-06)]"]	induration	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [induartion ==> induration]'}
+beccame	["[('became', 2.344569683541707e-05)]"]	became	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [beccame ==> became]'}
+beccame	["[('became', 2.344569683541707e-05)]"]	became	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [beccame ==> became]'}
+beccame	["[('became', 2.344569683541707e-05)]"]	became	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [beccame ==> became]'}
+resuem	["[('resume', 1.4653560522135668e-05)]"]	resume	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resuem ==> resume]'}
+resuem	["[('resume', 1.4653560522135668e-05)]"]	resume	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resuem ==> resume]'}
+resuem	["[('resume', 1.4653560522135668e-05)]"]	resume	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resuem ==> resume]'}
+resuem	["[('resume', 1.4653560522135668e-05)]"]	resume	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resuem ==> resume]'}
+resuem	["[('resume', 1.4653560522135668e-05)]"]	resume	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resuem ==> resume]'}
+entends	["[('intends', 0.9), ('extends', 0.9), ('tends', 0.9), ('sentiens', 0.9)]"]	intends	Changed	{'Corrected - Using MultiEdit Probable Candidates [entends ==> intends]'}
+inferolater	["[('inferolateral', 0.9), ('infero-lateral,', 0.9), ('interolateral', 0.9), ('interpolate', 0.9)]"]	inferolateral	Changed	{'Corrected - Using MultiEdit Probable Candidates [inferolater ==> inferolateral]'}
+inferolater	["[('inferolateral', 0.9), ('infero-lateral,', 0.9), ('interolateral', 0.9), ('interpolate', 0.9)]"]	inferolateral	Changed	{'Corrected - Using MultiEdit Probable Candidates [inferolater ==> inferolateral]'}
+addeed	["[('added', 0.00018401374509718885)]"]	added	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [addeed ==> added]'}
+addeed	["[('added', 0.00018401374509718885)]"]	added	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [addeed ==> added]'}
+addeed	["[('added', 0.00018401374509718885)]"]	added	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [addeed ==> added]'}
+tachcypnea	["[('tachypnea', 4.45848281072484e-06)]"]	tachypnea	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tachcypnea ==> tachypnea]'}
+procecure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procecure ==> procedure]'}
+procecure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procecure ==> procedure]'}
+procecure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procecure ==> procedure]'}
+procecure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procecure ==> procedure]'}
+procecure	["[('procedure', 0.00014712993275391972)]"]	procedure	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [procecure ==> procedure]'}
+milfdly	["[('mildly', 2.026583095784018e-06)]"]	mildly	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [milfdly ==> mildly]'}
+placewd	["[('placed', 7.701015763979268e-06)]"]	placed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [placewd ==> placed]'}
+placewd	["[('placed', 7.701015763979268e-06)]"]	placed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [placewd ==> placed]'}
+controntation	["[('confrontation', 1.1722848417708535e-05)]"]	confrontation	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [controntation ==> confrontation]'}
+persistenting	["[('persisting', 0.9), ('persistent', 0.9), ('persistent-high', 0.9), ('persisting.', 0.9)]"]	persisting	Changed	{'Corrected - Using MultiEdit Probable Candidates [persistenting ==> persisting]'}
+persistenting	["[('persisting', 0.9), ('persistent', 0.9), ('persistent-high', 0.9), ('persisting.', 0.9)]"]	persisting	Changed	{'Corrected - Using MultiEdit Probable Candidates [persistenting ==> persisting]'}
+persistenting	["[('persisting', 0.9), ('persistent', 0.9), ('persistent-high', 0.9), ('persisting.', 0.9)]"]	persisting	Changed	{'Corrected - Using MultiEdit Probable Candidates [persistenting ==> persisting]'}
+extingushes	["[('extinguisher', 0.9), ('extinguished', 0.9), ('extinguish', 0.9), ('extinguished.', 0.9)]"]	extinguisher	Changed	{'Corrected - Using MultiEdit Probable Candidates [extingushes ==> extinguisher]'}
+perhaphs	["[('perhaps', 4.0531661915680364e-07)]"]	perhaps	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perhaphs ==> perhaps]'}
+opern	["[('open', 0.00027358871793084244), ('opera', 4.0531661915680364e-07)]"]	open	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opern ==> open]'}
+opern	["[('open', 0.00027358871793084244), ('opera', 4.0531661915680364e-07)]"]	open	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opern ==> open]'}
+opern	["[('open', 0.00027358871793084244), ('opera', 4.0531661915680364e-07)]"]	open	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opern ==> open]'}
+opern	["[('open', 0.00027358871793084244), ('opera', 4.0531661915680364e-07)]"]	open	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opern ==> open]'}
+opern	["[('open', 0.00027358871793084244), ('opera', 4.0531661915680364e-07)]"]	open	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opern ==> open]'}
+huggger	["[('hunger', 0.9), ('huge', 0.9), ('hunger/', 0.9), ('hunger.', 0.9)]"]	hunger	Changed	{'Corrected - Using MultiEdit Probable Candidates [huggger ==> hunger]'}
+anxioltics	["[('anxiolytics', 4.0531661915680364e-07)]"]	anxiolytics	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [anxioltics ==> anxiolytics]'}
+inclusing	["[('including', 0.00012686410179607954)]"]	including	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [inclusing ==> including]'}
+inclusing	["[('including', 0.00012686410179607954)]"]	including	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [inclusing ==> including]'}
+inclusing	["[('including', 0.00012686410179607954)]"]	including	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [inclusing ==> including]'}
+inclusing	["[('including', 0.00012686410179607954)]"]	including	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [inclusing ==> including]'}
+inclusing	["[('including', 0.00012686410179607954)]"]	including	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [inclusing ==> including]'}
+sphyncterotomies	["[('sphincterotomy', 0.9), ('sclerotomies', 0.9), ('osteotomies', 0.9), ('hysterectomies', 0.9)]"]	sphincterotomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [sphyncterotomies ==> sphincterotomy]'}
+sphyncterotomies	["[('sphincterotomy', 0.9), ('sclerotomies', 0.9), ('osteotomies', 0.9), ('hysterectomies', 0.9)]"]	sphincterotomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [sphyncterotomies ==> sphincterotomy]'}
+paracoloic	["[('paracolic', 4.0531661915680364e-07)]"]	paracolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [paracoloic ==> paracolic]'}
+paracoloic	["[('paracolic', 4.0531661915680364e-07)]"]	paracolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [paracoloic ==> paracolic]'}
+liquds	["[('liquids', 2.431899714940822e-06)]"]	liquids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [liquds ==> liquids]'}
+liquds	["[('liquids', 2.431899714940822e-06)]"]	liquids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [liquds ==> liquids]'}
+liquds	["[('liquids', 2.431899714940822e-06)]"]	liquids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [liquds ==> liquids]'}
+liquds	["[('liquids', 2.431899714940822e-06)]"]	liquids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [liquds ==> liquids]'}
+liquds	["[('liquids', 2.431899714940822e-06)]"]	liquids	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [liquds ==> liquids]'}
+levimere	["[('lever', 0.9), ('leverage', 0.9), ('lemierre', 0.9), ('elsevier', 0.9)]"]	lever	Changed	{'Corrected - Using MultiEdit Probable Candidates [levimere ==> lever]'}
+sleeo	["[('sleep', 8.592712326124236e-05)]"]	sleep	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sleeo ==> sleep]'}
+sleeo	["[('sleep', 8.592712326124236e-05)]"]	sleep	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sleeo ==> sleep]'}
+sleeo	["[('sleep', 8.592712326124236e-05)]"]	sleep	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sleeo ==> sleep]'}
+phelyephrine	["[('phenylephrine', 0.9), ('phenylephrine]', 0.9), ('phenylephrine.', 0.9), ('phenylephrine,', 0.9)]"]	phenylephrine	Changed	{'Corrected - Using MultiEdit Probable Candidates [phelyephrine ==> phenylephrine]'}
+phelyephrine	["[('phenylephrine', 0.9), ('phenylephrine]', 0.9), ('phenylephrine.', 0.9), ('phenylephrine,', 0.9)]"]	phenylephrine	Changed	{'Corrected - Using MultiEdit Probable Candidates [phelyephrine ==> phenylephrine]'}
+phelyephrine	["[('phenylephrine', 0.9), ('phenylephrine]', 0.9), ('phenylephrine.', 0.9), ('phenylephrine,', 0.9)]"]	phenylephrine	Changed	{'Corrected - Using MultiEdit Probable Candidates [phelyephrine ==> phenylephrine]'}
+quiclkly	["[('quickly', 2.6376408939844203e-05)]"]	quickly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [quiclkly ==> quickly]'}
+quiclkly	["[('quickly', 2.6376408939844203e-05)]"]	quickly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [quiclkly ==> quickly]'}
+quiclkly	["[('quickly', 2.6376408939844203e-05)]"]	quickly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [quiclkly ==> quickly]'}
+quiclkly	["[('quickly', 2.6376408939844203e-05)]"]	quickly	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [quiclkly ==> quickly]'}
+hypoxemnia	["[('hypoxemia', 3.6478495724112327e-06)]"]	hypoxemia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypoxemnia ==> hypoxemia]'}
+polymycin	["[('polymyxin', 1.6212664766272145e-06)]"]	polymyxin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [polymycin ==> polymyxin]'}
+propfolo	["[('propofol', 0.9), ('propofol.', 0.9), ('propofol,', 0.9), ('prolo', 0.9)]"]	propofol	Changed	{'Corrected - Using MultiEdit Probable Candidates [propfolo ==> propofol]'}
+propfolo	["[('propofol', 0.9), ('propofol.', 0.9), ('propofol,', 0.9), ('prolo', 0.9)]"]	propofol	Changed	{'Corrected - Using MultiEdit Probable Candidates [propfolo ==> propofol]'}
+noited	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noited ==> noted]'}
+noited	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noited ==> noted]'}
+noited	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noited ==> noted]'}
+noited	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noited ==> noted]'}
+noited	["[('noted', 1.215949857470411e-06)]"]	noted	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [noited ==> noted]'}
+hiting	["[('hitting', 2.431899714940822e-06), ('hiking', 1.215949857470411e-06), ('biting', 4.0531661915680364e-07)]"]	hitting	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hiting ==> hitting]'}
+hiting	["[('hitting', 2.431899714940822e-06), ('hiking', 1.215949857470411e-06), ('biting', 4.0531661915680364e-07)]"]	hitting	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hiting ==> hitting]'}
+hiting	["[('hitting', 2.431899714940822e-06), ('hiking', 1.215949857470411e-06), ('biting', 4.0531661915680364e-07)]"]	hitting	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hiting ==> hitting]'}
+hiting	["[('hitting', 2.431899714940822e-06), ('hiking', 1.215949857470411e-06), ('biting', 4.0531661915680364e-07)]"]	hitting	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hiting ==> hitting]'}
+hiting	["[('hitting', 2.431899714940822e-06), ('hiking', 1.215949857470411e-06), ('biting', 4.0531661915680364e-07)]"]	hitting	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hiting ==> hitting]'}
+conytinue	["[('continue', 4.0531661915680364e-07)]"]	continue	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [conytinue ==> continue]'}
+enahncing	["[('enhancing', 0.9), ('enhancing.', 0.9), ('-enhancing', 0.9), ('menacing', 0.9)]"]	enhancing	Changed	{'Corrected - Using MultiEdit Probable Candidates [enahncing ==> enhancing]'}
+enahncing	["[('enhancing', 0.9), ('enhancing.', 0.9), ('-enhancing', 0.9), ('menacing', 0.9)]"]	enhancing	Changed	{'Corrected - Using MultiEdit Probable Candidates [enahncing ==> enhancing]'}
+enahncing	["[('enhancing', 0.9), ('enhancing.', 0.9), ('-enhancing', 0.9), ('menacing', 0.9)]"]	enhancing	Changed	{'Corrected - Using MultiEdit Probable Candidates [enahncing ==> enhancing]'}
+enahncing	["[('enhancing', 0.9), ('enhancing.', 0.9), ('-enhancing', 0.9), ('menacing', 0.9)]"]	enhancing	Changed	{'Corrected - Using MultiEdit Probable Candidates [enahncing ==> enhancing]'}
+enahncing	["[('enhancing', 0.9), ('enhancing.', 0.9), ('-enhancing', 0.9), ('menacing', 0.9)]"]	enhancing	Changed	{'Corrected - Using MultiEdit Probable Candidates [enahncing ==> enhancing]'}
+trasnformation	["[('transformation', 9.322282240606483e-06)]"]	transformation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [trasnformation ==> transformation]'}
+exstravation	["[('extravasation', 0.9), ('extravasation;', 0.9), ('extravasation.', 0.9), ('extravasation,', 0.9)]"]	extravasation	Changed	{'Corrected - Using MultiEdit Probable Candidates [exstravation ==> extravasation]'}
+stablitized	["[('stabilized', 0.9), ('stabilized.', 0.9), ('stabilized,', 0.9), ('stabilities', 0.9)]"]	stabilized	Changed	{'Corrected - Using MultiEdit Probable Candidates [stablitized ==> stabilized]'}
+entrappment	["[('entrapment', 1.6212664766272145e-06)]"]	entrapment	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [entrappment ==> entrapment]'}
+creartinine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creartinine ==> creatinine]'}
+creartinine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creartinine ==> creatinine]'}
+isoechic	["[('isochoric', 0.9), ('sochi', 0.9), ('isomeric', 0.9), ('isogenic', 0.9)]"]	isochoric	Changed	{'Corrected - Using MultiEdit Probable Candidates [isoechic ==> isochoric]'}
+prosthese	["[('prostheses', 0.9), ('prostheses:', 0.9), ('prostheses.', 0.9), ('prostheses,', 0.9)]"]	prostheses	Changed	{'Corrected - Using MultiEdit Probable Candidates [prosthese ==> prostheses]'}
+apsects	["[('aspects', 2.9307121044271338e-06)]"]	aspects	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [apsects ==> aspects]'}
+apsects	["[('aspects', 2.9307121044271338e-06)]"]	aspects	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [apsects ==> aspects]'}
+apsects	["[('aspects', 2.9307121044271338e-06)]"]	aspects	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [apsects ==> aspects]'}
+apsects	["[('aspects', 2.9307121044271338e-06)]"]	aspects	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [apsects ==> aspects]'}
+receipient	["[('recipient', 1.6212664766272145e-06)]"]	recipient	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [receipient ==> recipient]'}
+receipient	["[('recipient', 1.6212664766272145e-06)]"]	recipient	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [receipient ==> recipient]'}
+receipient	["[('recipient', 1.6212664766272145e-06)]"]	recipient	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [receipient ==> recipient]'}
+receipient	["[('recipient', 1.6212664766272145e-06)]"]	recipient	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [receipient ==> recipient]'}
+receipient	["[('recipient', 1.6212664766272145e-06)]"]	recipient	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [receipient ==> recipient]'}
+hypercarbnea	["[('hypercapnea', 0.9), ('hypercarotenemia', 0.9), ('hypercarbic', 0.9), ('hypercapnia', 0.9)]"]	hypercapnea	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypercarbnea ==> hypercapnea]'}
+hypercarbnea	["[('hypercapnea', 0.9), ('hypercarotenemia', 0.9), ('hypercarbic', 0.9), ('hypercapnia', 0.9)]"]	hypercapnea	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypercarbnea ==> hypercapnea]'}
+hypercarbnea	["[('hypercapnea', 0.9), ('hypercarotenemia', 0.9), ('hypercarbic', 0.9), ('hypercapnia', 0.9)]"]	hypercapnea	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypercarbnea ==> hypercapnea]'}
+hypercarbnea	["[('hypercapnea', 0.9), ('hypercarotenemia', 0.9), ('hypercarbic', 0.9), ('hypercapnia', 0.9)]"]	hypercapnea	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypercarbnea ==> hypercapnea]'}
+hypercarbnea	["[('hypercapnea', 0.9), ('hypercarotenemia', 0.9), ('hypercarbic', 0.9), ('hypercapnia', 0.9)]"]	hypercapnea	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypercarbnea ==> hypercapnea]'}
+breakfst	["[('breakfast', 5.2752817879688406e-05)]"]	breakfast	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [breakfst ==> breakfast]'}
+breakfst	["[('breakfast', 5.2752817879688406e-05)]"]	breakfast	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [breakfst ==> breakfast]'}
+breakfst	["[('breakfast', 5.2752817879688406e-05)]"]	breakfast	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [breakfst ==> breakfast]'}
+breakfst	["[('breakfast', 5.2752817879688406e-05)]"]	breakfast	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [breakfst ==> breakfast]'}
+breakfst	["[('breakfast', 5.2752817879688406e-05)]"]	breakfast	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [breakfst ==> breakfast]'}
+hypolucency	["[('echolucency', 0.9), ('hyperlucent', 0.9), ('hypoleuca', 0.9), ('hypogenic', 0.9)]"]	echolucency	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypolucency ==> echolucency]'}
+hypolucency	["[('echolucency', 0.9), ('hyperlucent', 0.9), ('hypoleuca', 0.9), ('hypogenic', 0.9)]"]	echolucency	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypolucency ==> echolucency]'}
+hypolucency	["[('echolucency', 0.9), ('hyperlucent', 0.9), ('hypoleuca', 0.9), ('hypogenic', 0.9)]"]	echolucency	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypolucency ==> echolucency]'}
+hypolucency	["[('echolucency', 0.9), ('hyperlucent', 0.9), ('hypoleuca', 0.9), ('hypogenic', 0.9)]"]	echolucency	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypolucency ==> echolucency]'}
+hypolucency	["[('echolucency', 0.9), ('hyperlucent', 0.9), ('hypoleuca', 0.9), ('hypogenic', 0.9)]"]	echolucency	Changed	{'Corrected - Using MultiEdit Probable Candidates [hypolucency ==> echolucency]'}
+riskk	["[('risk', 2.6345580245192236e-05)]"]	risk	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [riskk ==> risk]'}
+riskk	["[('risk', 2.6345580245192236e-05)]"]	risk	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [riskk ==> risk]'}
+opitate	["[('opiate', 1.6212664766272145e-06)]"]	opiate	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [opitate ==> opiate]'}
+acidoic	["[('acidic', 1.215949857470411e-06)]"]	acidic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acidoic ==> acidic]'}
+acidoic	["[('acidic', 1.215949857470411e-06)]"]	acidic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acidoic ==> acidic]'}
+acidoic	["[('acidic', 1.215949857470411e-06)]"]	acidic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acidoic ==> acidic]'}
+acidoic	["[('acidic', 1.215949857470411e-06)]"]	acidic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acidoic ==> acidic]'}
+acidoic	["[('acidic', 1.215949857470411e-06)]"]	acidic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [acidoic ==> acidic]'}
+nchanged	["[('changed', 1.1722848417708535e-05), ('unchanged', 1.1722848417708535e-05)]"]	changed	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [nchanged ==> changed]'}
+nchanged	["[('changed', 1.1722848417708535e-05), ('unchanged', 1.1722848417708535e-05)]"]	changed	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [nchanged ==> changed]'}
+nchanged	["[('changed', 1.1722848417708535e-05), ('unchanged', 1.1722848417708535e-05)]"]	changed	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [nchanged ==> changed]'}
+nchanged	["[('changed', 1.1722848417708535e-05), ('unchanged', 1.1722848417708535e-05)]"]	changed	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [nchanged ==> changed]'}
+nchanged	["[('changed', 1.1722848417708535e-05), ('unchanged', 1.1722848417708535e-05)]"]	changed	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [nchanged ==> changed]'}
+stomah	["[('stomach', 7.903674073557671e-05), ('stoma', 1.013291547892009e-05), ('stomal', 4.0531661915680364e-07)]"]	stomach	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stomah ==> stomach]'}
+stomah	["[('stomach', 7.903674073557671e-05), ('stoma', 1.013291547892009e-05), ('stomal', 4.0531661915680364e-07)]"]	stomach	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stomah ==> stomach]'}
+stomah	["[('stomach', 7.903674073557671e-05), ('stoma', 1.013291547892009e-05), ('stomal', 4.0531661915680364e-07)]"]	stomach	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stomah ==> stomach]'}
+hypodenities	["[('hypodensities', 8.106332383136073e-07)]"]	hypodensities	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypodenities ==> hypodensities]'}
+hypodenities	["[('hypodensities', 8.106332383136073e-07)]"]	hypodensities	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypodenities ==> hypodensities]'}
+hypodenities	["[('hypodensities', 8.106332383136073e-07)]"]	hypodensities	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hypodenities ==> hypodensities]'}
+otator	["[('rotator', 1.8239247862056163e-05)]"]	rotator	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [otator ==> rotator]'}
+otator	["[('rotator', 1.8239247862056163e-05)]"]	rotator	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [otator ==> rotator]'}
+initiationg	["[('initiation', 8.91696562144968e-06), ('initiating', 2.026583095784018e-06)]"]	initiation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [initiationg ==> initiation]'}
+usally	["[('usually', 4.053166191568036e-06)]"]	usually	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [usally ==> usually]'}
+usally	["[('usually', 4.053166191568036e-06)]"]	usually	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [usally ==> usually]'}
+usally	["[('usually', 4.053166191568036e-06)]"]	usually	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [usally ==> usually]'}
+usally	["[('usually', 4.053166191568036e-06)]"]	usually	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [usally ==> usually]'}
+usally	["[('usually', 4.053166191568036e-06)]"]	usually	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [usally ==> usually]'}
+perfored	["[('performed', 4.0531661915680364e-07)]"]	performed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perfored ==> performed]'}
+perfored	["[('performed', 4.0531661915680364e-07)]"]	performed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perfored ==> performed]'}
+perfored	["[('performed', 4.0531661915680364e-07)]"]	performed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perfored ==> performed]'}
+perfored	["[('performed', 4.0531661915680364e-07)]"]	performed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perfored ==> performed]'}
+perfored	["[('performed', 4.0531661915680364e-07)]"]	performed	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [perfored ==> performed]'}
+nondiagnositic	["[('nondiagnostic', 0.9), ('nondiagnostic.', 0.9), ('nondiagnostic,', 0.9), ('non-diagnostic', 0.9)]"]	nondiagnostic	Changed	{'Corrected - Using MultiEdit Probable Candidates [nondiagnositic ==> nondiagnostic]'}
+nondiagnositic	["[('nondiagnostic', 0.9), ('nondiagnostic.', 0.9), ('nondiagnostic,', 0.9), ('non-diagnostic', 0.9)]"]	nondiagnostic	Changed	{'Corrected - Using MultiEdit Probable Candidates [nondiagnositic ==> nondiagnostic]'}
+nondiagnositic	["[('nondiagnostic', 0.9), ('nondiagnostic.', 0.9), ('nondiagnostic,', 0.9), ('non-diagnostic', 0.9)]"]	nondiagnostic	Changed	{'Corrected - Using MultiEdit Probable Candidates [nondiagnositic ==> nondiagnostic]'}
+interparachymal	["[('intraparenchymal', 0.9), ('intraramal', 0.9), ('interparoxysmal', 0.9), ('intratracheal', 0.9)]"]	intraparenchymal	Changed	{'Corrected - Using MultiEdit Probable Candidates [interparachymal ==> intraparenchymal]'}
+couselor	["[('counselor', 1.1722848417708535e-05)]"]	counselor	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [couselor ==> counselor]'}
+couselor	["[('counselor', 1.1722848417708535e-05)]"]	counselor	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [couselor ==> counselor]'}
+couselor	["[('counselor', 1.1722848417708535e-05)]"]	counselor	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [couselor ==> counselor]'}
+couselor	["[('counselor', 1.1722848417708535e-05)]"]	counselor	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [couselor ==> counselor]'}
+consustently	["[('consistently', 2.0514984730989937e-05)]"]	consistently	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [consustently ==> consistently]'}
+jypokinesis	["[('hypokinesis.', 0.9), ('hypokinesis,', 0.9), ('hypokinesia', 0.9), ('cytokinesis', 0.9)]"]	hypokinesis.	Changed	{'Corrected - Using MultiEdit Probable Candidates [jypokinesis ==> hypokinesis.]'}
+coomfortable	["[('comfortable', 3.809925735755274e-05)]"]	comfortable	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [coomfortable ==> comfortable]'}
+coomfortable	["[('comfortable', 3.809925735755274e-05)]"]	comfortable	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [coomfortable ==> comfortable]'}
+coomfortable	["[('comfortable', 3.809925735755274e-05)]"]	comfortable	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [coomfortable ==> comfortable]'}
+coomfortable	["[('comfortable', 3.809925735755274e-05)]"]	comfortable	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [coomfortable ==> comfortable]'}
+eythromycin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [eythromycin ==> erythromycin]'}
+eythromycin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [eythromycin ==> erythromycin]'}
+eythromycin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [eythromycin ==> erythromycin]'}
+eythromycin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [eythromycin ==> erythromycin]'}
+eythromycin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [eythromycin ==> erythromycin]'}
+verrtex	["[('vertex', 2.026583095784018e-06)]"]	vertex	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [verrtex ==> vertex]'}
+recreationl	["[('recreational', 1.215949857470411e-06), ('recreation', 1.215949857470411e-06)]"]	recreational	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [recreationl ==> recreational]'}
+iompared	["[('ompared', 0.9), ('impared', 0.9), ('imparted', 0.9), ('impaired', 0.9)]"]	ompared	Changed	{'Corrected - Using MultiEdit Probable Candidates [iompared ==> ompared]'}
+aggitating	["[('agitation', 0.9), ('cavitating', 0.9), ('agitation;', 0.9), ('agitation:', 0.9)]"]	agitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [aggitating ==> agitation]'}
+aggitating	["[('agitation', 0.9), ('cavitating', 0.9), ('agitation;', 0.9), ('agitation:', 0.9)]"]	agitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [aggitating ==> agitation]'}
+aggitating	["[('agitation', 0.9), ('cavitating', 0.9), ('agitation;', 0.9), ('agitation:', 0.9)]"]	agitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [aggitating ==> agitation]'}
+aggitating	["[('agitation', 0.9), ('cavitating', 0.9), ('agitation;', 0.9), ('agitation:', 0.9)]"]	agitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [aggitating ==> agitation]'}
+aggitating	["[('agitation', 0.9), ('cavitating', 0.9), ('agitation;', 0.9), ('agitation:', 0.9)]"]	agitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [aggitating ==> agitation]'}
+symmptoms	["[('symptoms', 6.64719255417158e-05)]"]	symptoms	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [symmptoms ==> symptoms]'}
+symmptoms	["[('symptoms', 6.64719255417158e-05)]"]	symptoms	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [symmptoms ==> symptoms]'}
+symmptoms	["[('symptoms', 6.64719255417158e-05)]"]	symptoms	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [symmptoms ==> symptoms]'}
+symmptoms	["[('symptoms', 6.64719255417158e-05)]"]	symptoms	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [symmptoms ==> symptoms]'}
+intrgrillin	["[('integrilin', 0.9), ('integrilin)', 0.9), ('instilling', 0.9), ('trillion', 0.9)]"]	integrilin	Changed	{'Corrected - Using MultiEdit Probable Candidates [intrgrillin ==> integrilin]'}
+cathotomy	["[('arthrotomy', 0.9), ('autotomy', 0.9), ('cyathostome', 0.9), ('meatotomy', 0.9)]"]	arthrotomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [cathotomy ==> arthrotomy]'}
+eneteroscopy	["[('enteroscopy', 0.9), ('enteroscopy.', 0.9), ('enteroscopy,', 0.9), ('entoroscopy', 0.9)]"]	enteroscopy	Changed	{'Corrected - Using MultiEdit Probable Candidates [eneteroscopy ==> enteroscopy]'}
+eneteroscopy	["[('enteroscopy', 0.9), ('enteroscopy.', 0.9), ('enteroscopy,', 0.9), ('entoroscopy', 0.9)]"]	enteroscopy	Changed	{'Corrected - Using MultiEdit Probable Candidates [eneteroscopy ==> enteroscopy]'}
+eneteroscopy	["[('enteroscopy', 0.9), ('enteroscopy.', 0.9), ('enteroscopy,', 0.9), ('entoroscopy', 0.9)]"]	enteroscopy	Changed	{'Corrected - Using MultiEdit Probable Candidates [eneteroscopy ==> enteroscopy]'}
+eneteroscopy	["[('enteroscopy', 0.9), ('enteroscopy.', 0.9), ('enteroscopy,', 0.9), ('entoroscopy', 0.9)]"]	enteroscopy	Changed	{'Corrected - Using MultiEdit Probable Candidates [eneteroscopy ==> enteroscopy]'}
+tropnins	["[('troponins', 0.9), ('troponins.', 0.9), ('troponins,', 0.9), ('troponins)', 0.9)]"]	troponins	Changed	{'Corrected - Using MultiEdit Probable Candidates [tropnins ==> troponins]'}
+tropnins	["[('troponins', 0.9), ('troponins.', 0.9), ('troponins,', 0.9), ('troponins)', 0.9)]"]	troponins	Changed	{'Corrected - Using MultiEdit Probable Candidates [tropnins ==> troponins]'}
+tropnins	["[('troponins', 0.9), ('troponins.', 0.9), ('troponins,', 0.9), ('troponins)', 0.9)]"]	troponins	Changed	{'Corrected - Using MultiEdit Probable Candidates [tropnins ==> troponins]'}
+celcoxib	["[('celecoxib', 4.0531661915680364e-07)]"]	celecoxib	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [celcoxib ==> celecoxib]'}
+retsriction	["[('restriction', 1.337544843217452e-05)]"]	restriction	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [retsriction ==> restriction]'}
+retsriction	["[('restriction', 1.337544843217452e-05)]"]	restriction	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [retsriction ==> restriction]'}
+thickineng	["[('ticking', 0.9), ('thickening', 0.9), ('tricking', 0.9), ('ticking,', 0.9)]"]	ticking	Changed	{'Corrected - Using MultiEdit Probable Candidates [thickineng ==> ticking]'}
+addedndum	["[('addendum', 8.7921363132814e-06)]"]	addendum	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [addedndum ==> addendum]'}
+addedndum	["[('addendum', 8.7921363132814e-06)]"]	addendum	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [addedndum ==> addendum]'}
+addedndum	["[('addendum', 8.7921363132814e-06)]"]	addendum	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [addedndum ==> addendum]'}
+imprves	["[('improves', 0.9), ('nimproves', 0.9), ('improves/', 0.9), ('improves.', 0.9)]"]	improves	Changed	{'Corrected - Using MultiEdit Probable Candidates [imprves ==> improves]'}
+imprves	["[('improves', 0.9), ('nimproves', 0.9), ('improves/', 0.9), ('improves.', 0.9)]"]	improves	Changed	{'Corrected - Using MultiEdit Probable Candidates [imprves ==> improves]'}
+imprves	["[('improves', 0.9), ('nimproves', 0.9), ('improves/', 0.9), ('improves.', 0.9)]"]	improves	Changed	{'Corrected - Using MultiEdit Probable Candidates [imprves ==> improves]'}
+goint	["[('joint', 0.0005868984645390516), ('point', 1.8644564481212966e-05)]"]	joint	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [goint ==> joint]'}
+goint	["[('joint', 0.0005868984645390516), ('point', 1.8644564481212966e-05)]"]	joint	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [goint ==> joint]'}
+goint	["[('joint', 0.0005868984645390516), ('point', 1.8644564481212966e-05)]"]	joint	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [goint ==> joint]'}
+goint	["[('joint', 0.0005868984645390516), ('point', 1.8644564481212966e-05)]"]	joint	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [goint ==> joint]'}
+goint	["[('joint', 0.0005868984645390516), ('point', 1.8644564481212966e-05)]"]	joint	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [goint ==> joint]'}
+lichanified	["[('lichenified', 0.9), ('technified', 0.9), ('lichenized', 0.9), ('chronified', 0.9)]"]	lichenified	Changed	{'Corrected - Using MultiEdit Probable Candidates [lichanified ==> lichenified]'}
+ilnconsistently	["[('inconsistently', 8.7921363132814e-06)]"]	inconsistently	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ilnconsistently ==> inconsistently]'}
+fragmeny	["[('fragment', 8.91696562144968e-06)]"]	fragment	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [fragmeny ==> fragment]'}
+veerapamil	["[('verapamil', 8.106332383136073e-07)]"]	verapamil	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [veerapamil ==> verapamil]'}
+radaiation	["[('radiation', 5.106989401375726e-05)]"]	radiation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [radaiation ==> radiation]'}
+radaiation	["[('radiation', 5.106989401375726e-05)]"]	radiation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [radaiation ==> radiation]'}
+trancortical	["[('transcortical', 0.9), ('transcritical', 0.9), ('intracortical', 0.9), ('tricortical', 0.9)]"]	transcortical	Changed	{'Corrected - Using MultiEdit Probable Candidates [trancortical ==> transcortical]'}
+ruputure	["[('rupture', 0.00020630615915081304)]"]	rupture	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ruputure ==> rupture]'}
+ruputure	["[('rupture', 0.00020630615915081304)]"]	rupture	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ruputure ==> rupture]'}
+ruputure	["[('rupture', 0.00020630615915081304)]"]	rupture	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ruputure ==> rupture]'}
+ruputure	["[('rupture', 0.00020630615915081304)]"]	rupture	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ruputure ==> rupture]'}
+ruputure	["[('rupture', 0.00020630615915081304)]"]	rupture	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ruputure ==> rupture]'}
+antiarrhymatic	["[('antiarrhythmic', 0.9), ('antiaromatic', 0.9), ('antiarrhythmics', 0.9), ('anti-arrhythmic', 0.9)]"]	antiarrhythmic	Changed	{'Corrected - Using MultiEdit Probable Candidates [antiarrhymatic ==> antiarrhythmic]'}
+hyperphosphtemia	["[('hyperphosphatemia', 1.6212664766272145e-06)]"]	hyperphosphatemia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [hyperphosphtemia ==> hyperphosphatemia]'}
+dwait	["[('wait', 0.00014946631732578382), ('await', 1.4653560522135668e-05)]"]	wait	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dwait ==> wait]'}
+respositions	["[('prepositions', 0.9), ('reposition', 0.9), ('presuppositions', 0.9), ('predispositions', 0.9)]"]	prepositions	Changed	{'Corrected - Using MultiEdit Probable Candidates [respositions ==> prepositions]'}
+respositions	["[('prepositions', 0.9), ('reposition', 0.9), ('presuppositions', 0.9), ('predispositions', 0.9)]"]	prepositions	Changed	{'Corrected - Using MultiEdit Probable Candidates [respositions ==> prepositions]'}
+respositions	["[('prepositions', 0.9), ('reposition', 0.9), ('presuppositions', 0.9), ('predispositions', 0.9)]"]	prepositions	Changed	{'Corrected - Using MultiEdit Probable Candidates [respositions ==> prepositions]'}
+respositions	["[('prepositions', 0.9), ('reposition', 0.9), ('presuppositions', 0.9), ('predispositions', 0.9)]"]	prepositions	Changed	{'Corrected - Using MultiEdit Probable Candidates [respositions ==> prepositions]'}
+respositions	["[('prepositions', 0.9), ('reposition', 0.9), ('presuppositions', 0.9), ('predispositions', 0.9)]"]	prepositions	Changed	{'Corrected - Using MultiEdit Probable Candidates [respositions ==> prepositions]'}
+interpet	["[('interpret', 2.6376408939844203e-05), ('internet', 8.7921363132814e-06)]"]	interpret	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [interpet ==> interpret]'}
+interpet	["[('interpret', 2.6376408939844203e-05), ('internet', 8.7921363132814e-06)]"]	interpret	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [interpet ==> interpret]'}
+interpet	["[('interpret', 2.6376408939844203e-05), ('internet', 8.7921363132814e-06)]"]	interpret	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [interpet ==> interpret]'}
+interpet	["[('interpret', 2.6376408939844203e-05), ('internet', 8.7921363132814e-06)]"]	interpret	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [interpet ==> interpret]'}
+interpet	["[('interpret', 2.6376408939844203e-05), ('internet', 8.7921363132814e-06)]"]	interpret	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [interpet ==> interpret]'}
+unlely	['[(\'unlikely\', 0.9), (\'unlikely.\', 0.9), (\'unlikely,\', 0.9), (\'unlikely"\', 0.9)]']	unlikely	Changed	{'Corrected - Using MultiEdit Probable Candidates [unlely ==> unlikely]'}
+supoprtive	["[('supportive', 4.0531661915680364e-07)]"]	supportive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [supoprtive ==> supportive]'}
+supoprtive	["[('supportive', 4.0531661915680364e-07)]"]	supportive	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [supoprtive ==> supportive]'}
+heptacellular	["[('hepatocellular', 0.9), ('hepatocellular,', 0.9), ('hepato-cellular', 0.9), ('hepatocelluar', 0.9)]"]	hepatocellular	Changed	{'Corrected - Using MultiEdit Probable Candidates [heptacellular ==> hepatocellular]'}
+ecsherichia	["[('escherichia', 1.986051433868338e-05)]"]	escherichia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ecsherichia ==> escherichia]'}
+peratracheal	["[('paratracheal', 8.106332383136073e-07)]"]	paratracheal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [peratracheal ==> paratracheal]'}
+peratracheal	["[('paratracheal', 8.106332383136073e-07)]"]	paratracheal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [peratracheal ==> paratracheal]'}
+peratracheal	["[('paratracheal', 8.106332383136073e-07)]"]	paratracheal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [peratracheal ==> paratracheal]'}
+subcaspsular	["[('subcapsular', 1.459139828964493e-05)]"]	subcapsular	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [subcaspsular ==> subcapsular]'}
+subcaspsular	["[('subcapsular', 1.459139828964493e-05)]"]	subcapsular	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [subcaspsular ==> subcapsular]'}
+dlateral	["[('lateral', 0.0002934492322695258)]"]	lateral	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [dlateral ==> lateral]'}
+dlateral	["[('lateral', 0.0002934492322695258)]"]	lateral	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [dlateral ==> lateral]'}
+colisitina	["[('colistin', 0.9), ('colistin.', 0.9), ('collybistin', 0.9), ('collisional', 0.9)]"]	colistin	Changed	{'Corrected - Using MultiEdit Probable Candidates [colisitina ==> colistin]'}
+criciod	["[('cricoid', 2.8372163340976255e-06)]"]	cricoid	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [criciod ==> cricoid]'}
+containemnt	["[('containment', 1.4653560522135668e-05)]"]	containment	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [containemnt ==> containment]'}
+containemnt	["[('containment', 1.4653560522135668e-05)]"]	containment	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [containemnt ==> containment]'}
+containemnt	["[('containment', 1.4653560522135668e-05)]"]	containment	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [containemnt ==> containment]'}
+containemnt	["[('containment', 1.4653560522135668e-05)]"]	containment	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [containemnt ==> containment]'}
+immunosuppresents	["[('immunosuppresants', 0.9), ('immunosuppressants', 0.9), ('immunosuppressants/', 0.9), ('immunosuppressants.', 0.9)]"]	immunosuppresants	Changed	{'Corrected - Using MultiEdit Probable Candidates [immunosuppresents ==> immunosuppresants]'}
+immunosuppresents	["[('immunosuppresants', 0.9), ('immunosuppressants', 0.9), ('immunosuppressants/', 0.9), ('immunosuppressants.', 0.9)]"]	immunosuppresants	Changed	{'Corrected - Using MultiEdit Probable Candidates [immunosuppresents ==> immunosuppresants]'}
+immunosuppresents	["[('immunosuppresants', 0.9), ('immunosuppressants', 0.9), ('immunosuppressants/', 0.9), ('immunosuppressants.', 0.9)]"]	immunosuppresants	Changed	{'Corrected - Using MultiEdit Probable Candidates [immunosuppresents ==> immunosuppresants]'}
+immunosuppresents	["[('immunosuppresants', 0.9), ('immunosuppressants', 0.9), ('immunosuppressants/', 0.9), ('immunosuppressants.', 0.9)]"]	immunosuppresants	Changed	{'Corrected - Using MultiEdit Probable Candidates [immunosuppresents ==> immunosuppresants]'}
+immunosuppresents	["[('immunosuppresants', 0.9), ('immunosuppressants', 0.9), ('immunosuppressants/', 0.9), ('immunosuppressants.', 0.9)]"]	immunosuppresants	Changed	{'Corrected - Using MultiEdit Probable Candidates [immunosuppresents ==> immunosuppresants]'}
+brance	["[('branch', 3.445191262832831e-05), ('trance', 4.0531661915680364e-07)]"]	branch	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [brance ==> branch]'}
+brance	["[('branch', 3.445191262832831e-05), ('trance', 4.0531661915680364e-07)]"]	branch	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [brance ==> branch]'}
+expirqtory	["[('expiratory', 4.053166191568036e-06)]"]	expiratory	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [expirqtory ==> expiratory]'}
+expirqtory	["[('expiratory', 4.053166191568036e-06)]"]	expiratory	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [expirqtory ==> expiratory]'}
+haematochezia	["[('hematochezia', 1.215949857470411e-06)]"]	hematochezia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [haematochezia ==> hematochezia]'}
+bronhcial	["[('bronchial', 1.8644564481212966e-05)]"]	bronchial	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bronhcial ==> bronchial]'}
+bronhcial	["[('bronchial', 1.8644564481212966e-05)]"]	bronchial	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bronhcial ==> bronchial]'}
+bronhcial	["[('bronchial', 1.8644564481212966e-05)]"]	bronchial	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bronhcial ==> bronchial]'}
+cnadidate	["[('candidate', 3.51685452531256e-05)]"]	candidate	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [cnadidate ==> candidate]'}
+cnadidate	["[('candidate', 3.51685452531256e-05)]"]	candidate	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [cnadidate ==> candidate]'}
+assistsance	["[('assistance', 8.106332383136073e-07)]"]	assistance	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [assistsance ==> assistance]'}
+assistsance	["[('assistance', 8.106332383136073e-07)]"]	assistance	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [assistsance ==> assistance]'}
+pedestrin	["[('pedestrian', 0.0002123859084381651)]"]	pedestrian	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pedestrin ==> pedestrian]'}
+pedestrin	["[('pedestrian', 0.0002123859084381651)]"]	pedestrian	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pedestrin ==> pedestrian]'}
+erythromyocin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythromyocin ==> erythromycin]'}
+erythromyocin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythromyocin ==> erythromycin]'}
+erythromyocin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythromyocin ==> erythromycin]'}
+erythromyocin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythromyocin ==> erythromycin]'}
+erythromyocin	["[('erythromycin', 7.295699144822465e-06)]"]	erythromycin	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythromyocin ==> erythromycin]'}
+gentteal	["[('genital', 0.9), ('general', 0.9), ('enteral', 0.9), ('gente', 0.9)]"]	genital	Changed	{'Corrected - Using MultiEdit Probable Candidates [gentteal ==> genital]'}
+heterogebous	["[('heterogenous', 4.0531661915680364e-07)]"]	heterogenous	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [heterogebous ==> heterogenous]'}
+cardiognitc	["[('cardiogenic', 0.9), ('cardiogenic,', 0.9), ('cariogenic', 0.9), ('cardiogenetic', 0.9)]"]	cardiogenic	Changed	{'Corrected - Using MultiEdit Probable Candidates [cardiognitc ==> cardiogenic]'}
+antipyschotic	["[('antipsychotic', 2.8372163340976255e-06)]"]	antipsychotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [antipyschotic ==> antipsychotic]'}
+antipyschotic	["[('antipsychotic', 2.8372163340976255e-06)]"]	antipsychotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [antipyschotic ==> antipsychotic]'}
+antipyschotic	["[('antipsychotic', 2.8372163340976255e-06)]"]	antipsychotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [antipyschotic ==> antipsychotic]'}
+justs	[]	justs	Same	{'Same- Token Exists in English Vocabulary [justs]'}
+justs	[]	justs	Same	{'Same- Token Exists in English Vocabulary [justs]'}
+justs	[]	justs	Same	{'Same- Token Exists in English Vocabulary [justs]'}
+justs	[]	justs	Same	{'Same- Token Exists in English Vocabulary [justs]'}
+justs	[]	justs	Same	{'Same- Token Exists in English Vocabulary [justs]'}
+distendes	["[('distended', 8.106332383136073e-07)]"]	distended	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [distendes ==> distended]'}
+distendes	["[('distended', 8.106332383136073e-07)]"]	distended	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [distendes ==> distended]'}
+distendes	["[('distended', 8.106332383136073e-07)]"]	distended	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [distendes ==> distended]'}
+nectotic	["[('necrotic', 4.45848281072484e-06)]"]	necrotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nectotic ==> necrotic]'}
+nectotic	["[('necrotic', 4.45848281072484e-06)]"]	necrotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nectotic ==> necrotic]'}
+nectotic	["[('necrotic', 4.45848281072484e-06)]"]	necrotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nectotic ==> necrotic]'}
+nectotic	["[('necrotic', 4.45848281072484e-06)]"]	necrotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nectotic ==> necrotic]'}
+nectotic	["[('necrotic', 4.45848281072484e-06)]"]	necrotic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nectotic ==> necrotic]'}
+ythick	["[('thick', 7.701015763979268e-06)]"]	thick	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ythick ==> thick]'}
+senstivites	["[('sensitivities', 0.9), ('sensitivities:', 0.9), ('sensitivities/', 0.9), ('sensitivities.', 0.9)]"]	sensitivities	Changed	{'Corrected - Using MultiEdit Probable Candidates [senstivites ==> sensitivities]'}
+senstivites	["[('sensitivities', 0.9), ('sensitivities:', 0.9), ('sensitivities/', 0.9), ('sensitivities.', 0.9)]"]	sensitivities	Changed	{'Corrected - Using MultiEdit Probable Candidates [senstivites ==> sensitivities]'}
+senstivites	["[('sensitivities', 0.9), ('sensitivities:', 0.9), ('sensitivities/', 0.9), ('sensitivities.', 0.9)]"]	sensitivities	Changed	{'Corrected - Using MultiEdit Probable Candidates [senstivites ==> sensitivities]'}
+downgoin	["[('ongoing', 0.9), ('dogon', 0.9), ('ongoing\\\\', 0.9), ('ongoing/', 0.9)]"]	ongoing	Changed	{'Corrected - Using MultiEdit Probable Candidates [downgoin ==> ongoing]'}
+tranpsort	["[('transport', 0.0003242532953254429)]"]	transport	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tranpsort ==> transport]'}
+tranpsort	["[('transport', 0.0003242532953254429)]"]	transport	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tranpsort ==> transport]'}
+tranpsort	["[('transport', 0.0003242532953254429)]"]	transport	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tranpsort ==> transport]'}
+cefotaxmin	["[('eotaxin', 0.9), ('chemotaxin', 0.9), ('cefotaxime', 0.9), ('eotaxins', 0.9)]"]	eotaxin	Changed	{'Corrected - Using MultiEdit Probable Candidates [cefotaxmin ==> eotaxin]'}
+sennekot	["[('stennert', 0.9), ('sennetsu', 0.9), ('rennet', 0.9), ('kennet', 0.9)]"]	stennert	Changed	{'Corrected - Using MultiEdit Probable Candidates [sennekot ==> stennert]'}
+sennekot	["[('stennert', 0.9), ('sennetsu', 0.9), ('rennet', 0.9), ('kennet', 0.9)]"]	stennert	Changed	{'Corrected - Using MultiEdit Probable Candidates [sennekot ==> stennert]'}
+sennekot	["[('stennert', 0.9), ('sennetsu', 0.9), ('rennet', 0.9), ('kennet', 0.9)]"]	stennert	Changed	{'Corrected - Using MultiEdit Probable Candidates [sennekot ==> stennert]'}
+sennekot	["[('stennert', 0.9), ('sennetsu', 0.9), ('rennet', 0.9), ('kennet', 0.9)]"]	stennert	Changed	{'Corrected - Using MultiEdit Probable Candidates [sennekot ==> stennert]'}
+sennekot	["[('stennert', 0.9), ('sennetsu', 0.9), ('rennet', 0.9), ('kennet', 0.9)]"]	stennert	Changed	{'Corrected - Using MultiEdit Probable Candidates [sennekot ==> stennert]'}
+secontary	["[('secondary', 0.00031006721365495476)]"]	secondary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secontary ==> secondary]'}
+secon	["[('second', 0.0002565654199262567)]"]	second	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secon ==> second]'}
+secon	["[('second', 0.0002565654199262567)]"]	second	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secon ==> second]'}
+secon	["[('second', 0.0002565654199262567)]"]	second	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secon ==> second]'}
+secon	["[('second', 0.0002565654199262567)]"]	second	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secon ==> second]'}
+secon	["[('second', 0.0002565654199262567)]"]	second	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [secon ==> second]'}
+tinglin	["[('tingling', 4.0531661915680364e-07)]"]	tingling	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tinglin ==> tingling]'}
+tinglin	["[('tingling', 4.0531661915680364e-07)]"]	tingling	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tinglin ==> tingling]'}
+tinglin	["[('tingling', 4.0531661915680364e-07)]"]	tingling	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tinglin ==> tingling]'}
+tinglin	["[('tingling', 4.0531661915680364e-07)]"]	tingling	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tinglin ==> tingling]'}
+arrythmmia	["[('arrythmia', 0.9), ('arrythmias', 0.9), ('arrythmia,', 0.9), ('arrhythmia', 0.9)]"]	arrythmia	Changed	{'Corrected - Using MultiEdit Probable Candidates [arrythmmia ==> arrythmia]'}
+contonese	["[('cantonese', 1.4653560522135668e-05)]"]	cantonese	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [contonese ==> cantonese]'}
+contonese	["[('cantonese', 1.4653560522135668e-05)]"]	cantonese	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [contonese ==> cantonese]'}
+contonese	["[('cantonese', 1.4653560522135668e-05)]"]	cantonese	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [contonese ==> cantonese]'}
+contonese	["[('cantonese', 1.4653560522135668e-05)]"]	cantonese	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [contonese ==> cantonese]'}
+contonese	["[('cantonese', 1.4653560522135668e-05)]"]	cantonese	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [contonese ==> cantonese]'}
+pregant	["[('pregnant', 3.6478495724112327e-06)]"]	pregnant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pregant ==> pregnant]'}
+pregant	["[('pregnant', 3.6478495724112327e-06)]"]	pregnant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pregant ==> pregnant]'}
+pregant	["[('pregnant', 3.6478495724112327e-06)]"]	pregnant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pregant ==> pregnant]'}
+pregant	["[('pregnant', 3.6478495724112327e-06)]"]	pregnant	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [pregant ==> pregnant]'}
+neuropatic	["[('neuropathic', 8.91696562144968e-06)]"]	neuropathic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [neuropatic ==> neuropathic]'}
+neuropatic	["[('neuropathic', 8.91696562144968e-06)]"]	neuropathic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [neuropatic ==> neuropathic]'}
+neuropatic	["[('neuropathic', 8.91696562144968e-06)]"]	neuropathic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [neuropatic ==> neuropathic]'}
+neuropatic	["[('neuropathic', 8.91696562144968e-06)]"]	neuropathic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [neuropatic ==> neuropathic]'}
+neuropatic	["[('neuropathic', 8.91696562144968e-06)]"]	neuropathic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [neuropatic ==> neuropathic]'}
+meteprolol	["[('metoprolol', 1.215949857470411e-06)]"]	metoprolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [meteprolol ==> metoprolol]'}
+meteprolol	["[('metoprolol', 1.215949857470411e-06)]"]	metoprolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [meteprolol ==> metoprolol]'}
+meteprolol	["[('metoprolol', 1.215949857470411e-06)]"]	metoprolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [meteprolol ==> metoprolol]'}
+meteprolol	["[('metoprolol', 1.215949857470411e-06)]"]	metoprolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [meteprolol ==> metoprolol]'}
+meteprolol	["[('metoprolol', 1.215949857470411e-06)]"]	metoprolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [meteprolol ==> metoprolol]'}
+calmmed	["[('calme', 0.9), ('scaled', 0.9), ('jammed', 0.9), ('calmer', 0.9)]"]	calme	Changed	{'Corrected - Using MultiEdit Probable Candidates [calmmed ==> calme]'}
+deniesd	["[('denies', 0.9), ('denied', 0.9), ('deniers', 0.9), ('denied.', 0.9)]"]	denies	Changed	{'Corrected - Using MultiEdit Probable Candidates [deniesd ==> denies]'}
+denises	["[('denise', 0.9), ('denies', 0.9), ('penises', 0.9), ('densest', 0.9)]"]	denise	Changed	{'Corrected - Using MultiEdit Probable Candidates [denises ==> denise]'}
+denises	["[('denise', 0.9), ('denies', 0.9), ('penises', 0.9), ('densest', 0.9)]"]	denise	Changed	{'Corrected - Using MultiEdit Probable Candidates [denises ==> denise]'}
+denises	["[('denise', 0.9), ('denies', 0.9), ('penises', 0.9), ('densest', 0.9)]"]	denise	Changed	{'Corrected - Using MultiEdit Probable Candidates [denises ==> denise]'}
+denises	["[('denise', 0.9), ('denies', 0.9), ('penises', 0.9), ('densest', 0.9)]"]	denise	Changed	{'Corrected - Using MultiEdit Probable Candidates [denises ==> denise]'}
+remining	["[('remaining', 2.026583095784018e-06)]"]	remaining	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [remining ==> remaining]'}
+remining	["[('remaining', 2.026583095784018e-06)]"]	remaining	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [remining ==> remaining]'}
+remining	["[('remaining', 2.026583095784018e-06)]"]	remaining	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [remining ==> remaining]'}
+remining	["[('remaining', 2.026583095784018e-06)]"]	remaining	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [remining ==> remaining]'}
+thrach	["[('thrash', 2.9307121044271336e-05)]"]	thrash	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [thrach ==> thrash]'}
+thrach	["[('thrash', 2.9307121044271336e-05)]"]	thrash	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [thrach ==> thrash]'}
+thrach	["[('thrash', 2.9307121044271336e-05)]"]	thrash	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [thrach ==> thrash]'}
+thrach	["[('thrash', 2.9307121044271336e-05)]"]	thrash	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [thrach ==> thrash]'}
+thrach	["[('thrash', 2.9307121044271336e-05)]"]	thrash	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [thrach ==> thrash]'}
+zyprexax	["[('pyrexia', 0.9), ('pre-tax', 0.9), ('prax', 0.9), ('hyporexia.', 0.9)]"]	pyrexia	Changed	{'Corrected - Using MultiEdit Probable Candidates [zyprexax ==> pyrexia]'}
+bvery	["[('very', 1.337544843217452e-05)]"]	very	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bvery ==> very]'}
+bvery	["[('very', 1.337544843217452e-05)]"]	very	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bvery ==> very]'}
+bvery	["[('very', 1.337544843217452e-05)]"]	very	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bvery ==> very]'}
+bvery	["[('very', 1.337544843217452e-05)]"]	very	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bvery ==> very]'}
+bvery	["[('very', 1.337544843217452e-05)]"]	very	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [bvery ==> very]'}
+holosstolic	["[('holosystolic', 4.0531661915680364e-07)]"]	holosystolic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [holosstolic ==> holosystolic]'}
+deveopling	["[('developing', 0.9), ('developing\\\\', 0.9), ('developing;', 0.9), ('developing:', 0.9)]"]	developing	Changed	{'Corrected - Using MultiEdit Probable Candidates [deveopling ==> developing]'}
+resuults	["[('results', 1.013291547892009e-05)]"]	results	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [resuults ==> results]'}
+brochodilations	["[('bronchodilation', 0.9), ('bronchodilation,', 0.9), ('bronchodilators', 0.9), ('bronchodilating', 0.9)]"]	bronchodilation	Changed	{'Corrected - Using MultiEdit Probable Candidates [brochodilations ==> bronchodilation]'}
+abnormalityin	["[('abnormality', 0.9), ('abonormality', 0.9), ('abnormality]', 0.9), ('abnormality<', 0.9)]"]	abnormality	Changed	{'Corrected - Using MultiEdit Probable Candidates [abnormalityin ==> abnormality]'}
+coolaborate	["[('collaborate', 1.4653560522135668e-05)]"]	collaborate	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [coolaborate ==> collaborate]'}
+isordril	["[('isodrin', 0.9), ('disorderly', 0.9), ('disorder-i', 0.9), ('disordertrial', 0.9)]"]	isodrin	Changed	{'Corrected - Using MultiEdit Probable Candidates [isordril ==> isodrin]'}
+isordril	["[('isodrin', 0.9), ('disorderly', 0.9), ('disorder-i', 0.9), ('disordertrial', 0.9)]"]	isodrin	Changed	{'Corrected - Using MultiEdit Probable Candidates [isordril ==> isodrin]'}
+parafaulcine	["[('parfumine', 0.9), ('paracrine', 0.9), ('parafac', 0.9), ('falcine', 0.9)]"]	parfumine	Changed	{'Corrected - Using MultiEdit Probable Candidates [parafaulcine ==> parfumine]'}
+consoliodation	["[('consolidation', 8.106332383136073e-07)]"]	consolidation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [consoliodation ==> consolidation]'}
+cholangiis	["[('cholangitis', 2.8372163340976255e-05)]"]	cholangitis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cholangiis ==> cholangitis]'}
+cholangiis	["[('cholangitis', 2.8372163340976255e-05)]"]	cholangitis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cholangiis ==> cholangitis]'}
+cholangiis	["[('cholangitis', 2.8372163340976255e-05)]"]	cholangitis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cholangiis ==> cholangitis]'}
+atributes	["[('attributes', 1.1722848417708535e-05), ('tributes', 2.9307121044271338e-06)]"]	attributes	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [atributes ==> attributes]'}
+alond	["[('along', 7.295699144822465e-06), ('alone', 3.242532953254429e-06), ('aland', 8.106332383136073e-07)]"]	along	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alond ==> along]'}
+alond	["[('along', 7.295699144822465e-06), ('alone', 3.242532953254429e-06), ('aland', 8.106332383136073e-07)]"]	along	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alond ==> along]'}
+alond	["[('along', 7.295699144822465e-06), ('alone', 3.242532953254429e-06), ('aland', 8.106332383136073e-07)]"]	along	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alond ==> along]'}
+alond	["[('along', 7.295699144822465e-06), ('alone', 3.242532953254429e-06), ('aland', 8.106332383136073e-07)]"]	along	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alond ==> along]'}
+alond	["[('along', 7.295699144822465e-06), ('alone', 3.242532953254429e-06), ('aland', 8.106332383136073e-07)]"]	along	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alond ==> along]'}
+satruation	["[('saturation', 2.026583095784018e-06)]"]	saturation	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [satruation ==> saturation]'}
+incrwase	["[('increase', 3.6478495724112327e-06)]"]	increase	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [incrwase ==> increase]'}
+patecheal	["[('pachea', 0.9), ('petechial', 0.9), ('paratracheal', 0.9), ('patches', 0.9)]"]	pachea	Changed	{'Corrected - Using MultiEdit Probable Candidates [patecheal ==> pachea]'}
+patecheal	["[('pachea', 0.9), ('petechial', 0.9), ('paratracheal', 0.9), ('patches', 0.9)]"]	pachea	Changed	{'Corrected - Using MultiEdit Probable Candidates [patecheal ==> pachea]'}
+tramodal	["[('transmodal', 0.9), ('trimodal', 0.9), ('amodal', 0.9), ('tri-modal', 0.9)]"]	transmodal	Changed	{'Corrected - Using MultiEdit Probable Candidates [tramodal ==> transmodal]'}
+tramodal	["[('transmodal', 0.9), ('trimodal', 0.9), ('amodal', 0.9), ('tri-modal', 0.9)]"]	transmodal	Changed	{'Corrected - Using MultiEdit Probable Candidates [tramodal ==> transmodal]'}
+evenin	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [evenin ==> evening]'}
+evenin	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [evenin ==> evening]'}
+evenin	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [evenin ==> evening]'}
+evenin	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [evenin ==> evening]'}
+evenin	["[('evening', 4.0531661915680364e-07)]"]	evening	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [evenin ==> evening]'}
+infeoseptal	["[('infero-septal,', 0.9), ('anteroseptal', 0.9), ('nasoseptal', 0.9), ('inhospital', 0.9)]"]	infero-septal,	Changed	{'Corrected - Using MultiEdit Probable Candidates [infeoseptal ==> infero-septal,]'}
+resusitaton	["[('resuscitation', 0.9), ('resuscitations', 0.9), ('resuscitation.', 0.9), ('resuscitation,', 0.9)]"]	resuscitation	Changed	{'Corrected - Using MultiEdit Probable Candidates [resusitaton ==> resuscitation]'}
+dehiscene	["[('dehiscence', 8.106332383136072e-06)]"]	dehiscence	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [dehiscene ==> dehiscence]'}
+alverolar	["[('alveolar', 6.363470920761816e-05)]"]	alveolar	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alverolar ==> alveolar]'}
+alverolar	["[('alveolar', 6.363470920761816e-05)]"]	alveolar	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alverolar ==> alveolar]'}
+alverolar	["[('alveolar', 6.363470920761816e-05)]"]	alveolar	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [alverolar ==> alveolar]'}
+barrieer	["[('barrier', 6.890382525665661e-06)]"]	barrier	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [barrieer ==> barrier]'}
+barrieer	["[('barrier', 6.890382525665661e-06)]"]	barrier	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [barrieer ==> barrier]'}
+preciptitously	["[('precipitously', 8.7921363132814e-06)]"]	precipitously	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [preciptitously ==> precipitously]'}
+preciptitously	["[('precipitously', 8.7921363132814e-06)]"]	precipitously	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [preciptitously ==> precipitously]'}
+fluctuatio	["[('fluctuation', 8.7921363132814e-06)]"]	fluctuation	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [fluctuatio ==> fluctuation]'}
+dyamics	["[('dynamics', 1.75842726265628e-05)]"]	dynamics	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dyamics ==> dynamics]'}
+dyamics	["[('dynamics', 1.75842726265628e-05)]"]	dynamics	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dyamics ==> dynamics]'}
+autocoidal	["[('autocidal', 0.9), ('autopodial', 0.9), ('toroidal', 0.9), ('autacoid', 0.9)]"]	autocidal	Changed	{'Corrected - Using MultiEdit Probable Candidates [autocoidal ==> autocidal]'}
+doubel	["[('double', 2.675089686434904e-05)]"]	double	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [doubel ==> double]'}
+doubel	["[('double', 2.675089686434904e-05)]"]	double	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [doubel ==> double]'}
+doubel	["[('double', 2.675089686434904e-05)]"]	double	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [doubel ==> double]'}
+doubel	["[('double', 2.675089686434904e-05)]"]	double	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [doubel ==> double]'}
+mimick	["[('mimic', 8.106332383136073e-07)]"]	mimic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mimick ==> mimic]'}
+mimick	["[('mimic', 8.106332383136073e-07)]"]	mimic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mimick ==> mimic]'}
+mimick	["[('mimic', 8.106332383136073e-07)]"]	mimic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mimick ==> mimic]'}
+mimick	["[('mimic', 8.106332383136073e-07)]"]	mimic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mimick ==> mimic]'}
+mimick	["[('mimic', 8.106332383136073e-07)]"]	mimic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [mimick ==> mimic]'}
+phebilitis	["[('phlebitis', 0.9), ('cheilitis', 0.9), ('phlebitis.', 0.9), ('phlebitis,', 0.9)]"]	phlebitis	Changed	{'Corrected - Using MultiEdit Probable Candidates [phebilitis ==> phlebitis]'}
+difinitely	["[('definitely', 4.0531661915680364e-07)]"]	definitely	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [difinitely ==> definitely]'}
+exteme	["[('extreme', 1.013291547892009e-05)]"]	extreme	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [exteme ==> extreme]'}
+exteme	["[('extreme', 1.013291547892009e-05)]"]	extreme	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [exteme ==> extreme]'}
+exteme	["[('extreme', 1.013291547892009e-05)]"]	extreme	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [exteme ==> extreme]'}
+exteme	["[('extreme', 1.013291547892009e-05)]"]	extreme	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [exteme ==> extreme]'}
+exteme	["[('extreme', 1.013291547892009e-05)]"]	extreme	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [exteme ==> extreme]'}
+limite	["[('limited', 3.566786248579872e-05), ('limit', 2.026583095784018e-06)]"]	limited	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [limite ==> limited]'}
+limite	["[('limited', 3.566786248579872e-05), ('limit', 2.026583095784018e-06)]"]	limited	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [limite ==> limited]'}
+limite	["[('limited', 3.566786248579872e-05), ('limit', 2.026583095784018e-06)]"]	limited	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [limite ==> limited]'}
+limite	["[('limited', 3.566786248579872e-05), ('limit', 2.026583095784018e-06)]"]	limited	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [limite ==> limited]'}
+limite	["[('limited', 3.566786248579872e-05), ('limit', 2.026583095784018e-06)]"]	limited	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [limite ==> limited]'}
+proporanolol	["[('propranolol', 8.106332383136073e-07)]"]	propranolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [proporanolol ==> propranolol]'}
+proporanolol	["[('propranolol', 8.106332383136073e-07)]"]	propranolol	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [proporanolol ==> propranolol]'}
+requiriemnts	["[('requirements', 0.9), ('requirements]', 0.9), ('requirements;', 0.9), ('requirements:', 0.9)]"]	requirements	Changed	{'Corrected - Using MultiEdit Probable Candidates [requiriemnts ==> requirements]'}
+splemectomy	["[('splenectomy', 0.9), ('splenectomy.', 0.9), ('splenectomy,', 0.9), ('sclerectomy', 0.9)]"]	splenectomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [splemectomy ==> splenectomy]'}
+splemectomy	["[('splenectomy', 0.9), ('splenectomy.', 0.9), ('splenectomy,', 0.9), ('sclerectomy', 0.9)]"]	splenectomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [splemectomy ==> splenectomy]'}
+splemectomy	["[('splenectomy', 0.9), ('splenectomy.', 0.9), ('splenectomy,', 0.9), ('sclerectomy', 0.9)]"]	splenectomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [splemectomy ==> splenectomy]'}
+psitacci	["[('psittaci', 0.9), ('psittaci.', 0.9), ('psittacine', 0.9), ('sacci', 0.9)]"]	psittaci	Changed	{'Corrected - Using MultiEdit Probable Candidates [psitacci ==> psittaci]'}
+untin	["[('until', 8.106332383136073e-07)]"]	until	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [untin ==> until]'}
+untin	["[('until', 8.106332383136073e-07)]"]	until	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [untin ==> until]'}
+transprot	["[('transport', 0.0003242532953254429)]"]	transport	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [transprot ==> transport]'}
+transprot	["[('transport', 0.0003242532953254429)]"]	transport	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [transprot ==> transport]'}
+chesp	["[('chest', 5.1880527252070865e-05)]"]	chest	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chesp ==> chest]'}
+chesp	["[('chest', 5.1880527252070865e-05)]"]	chest	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chesp ==> chest]'}
+chesp	["[('chest', 5.1880527252070865e-05)]"]	chest	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chesp ==> chest]'}
+chesp	["[('chest', 5.1880527252070865e-05)]"]	chest	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chesp ==> chest]'}
+chesp	["[('chest', 5.1880527252070865e-05)]"]	chest	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chesp ==> chest]'}
+temporaty	["[('temporary', 2.026583095784018e-06)]"]	temporary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [temporaty ==> temporary]'}
+temporaty	["[('temporary', 2.026583095784018e-06)]"]	temporary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [temporaty ==> temporary]'}
+temporaty	["[('temporary', 2.026583095784018e-06)]"]	temporary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [temporaty ==> temporary]'}
+temporaty	["[('temporary', 2.026583095784018e-06)]"]	temporary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [temporaty ==> temporary]'}
+temporaty	["[('temporary', 2.026583095784018e-06)]"]	temporary	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [temporaty ==> temporary]'}
+uperr	["[('perr', 0.9), ('usper', 0.9), ('upper', 0.9), ('super', 0.9)]"]	perr	Changed	{'Corrected - Using MultiEdit Probable Candidates [uperr ==> perr]'}
+uperr	["[('perr', 0.9), ('usper', 0.9), ('upper', 0.9), ('super', 0.9)]"]	perr	Changed	{'Corrected - Using MultiEdit Probable Candidates [uperr ==> perr]'}
+uperr	["[('perr', 0.9), ('usper', 0.9), ('upper', 0.9), ('super', 0.9)]"]	perr	Changed	{'Corrected - Using MultiEdit Probable Candidates [uperr ==> perr]'}
+imaginig	["[('imaging', 2.7561530102662645e-05)]"]	imaging	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [imaginig ==> imaging]'}
+arteriogrphy	["[('arteriography', 0.9), ('arteriography.', 0.9), ('arteriography,', 0.9), ('arteriograph', 0.9)]"]	arteriography	Changed	{'Corrected - Using MultiEdit Probable Candidates [arteriogrphy ==> arteriography]'}
+arteriogrphy	["[('arteriography', 0.9), ('arteriography.', 0.9), ('arteriography,', 0.9), ('arteriograph', 0.9)]"]	arteriography	Changed	{'Corrected - Using MultiEdit Probable Candidates [arteriogrphy ==> arteriography]'}
+stabilizind	["[('stabilizing', 0.9), ('stabilizing]', 0.9), ('stabilizing.', 0.9), ('stabilizing,', 0.9)]"]	stabilizing	Changed	{'Corrected - Using MultiEdit Probable Candidates [stabilizind ==> stabilizing]'}
+intubabation	["[('intubation', 0.9), ('intubations', 0.9), ('intubation?', 0.9), ('intubation.', 0.9)]"]	intubation	Changed	{'Corrected - Using MultiEdit Probable Candidates [intubabation ==> intubation]'}
+intubabation	["[('intubation', 0.9), ('intubations', 0.9), ('intubation?', 0.9), ('intubation.', 0.9)]"]	intubation	Changed	{'Corrected - Using MultiEdit Probable Candidates [intubabation ==> intubation]'}
+intubabation	["[('intubation', 0.9), ('intubations', 0.9), ('intubation?', 0.9), ('intubation.', 0.9)]"]	intubation	Changed	{'Corrected - Using MultiEdit Probable Candidates [intubabation ==> intubation]'}
+rehospialization	["[('rehospitalization', 0.9), ('rehospitalizations', 0.9), ('rehospitalization:', 0.9), ('rehospitalization.', 0.9)]"]	rehospitalization	Changed	{'Corrected - Using MultiEdit Probable Candidates [rehospialization ==> rehospitalization]'}
+generenerative	["[('generative', 0.9), ('neurogenerative', 0.9), ('gene-negative', 0.9), ('neuroregenerative', 0.9)]"]	generative	Changed	{'Corrected - Using MultiEdit Probable Candidates [generenerative ==> generative]'}
+strpng	["[('string', 1.215949857470411e-06)]"]	string	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [strpng ==> string]'}
+electrocradiogram	["[('electrocardiogram', 4.0531661915680364e-07)]"]	electrocardiogram	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [electrocradiogram ==> electrocardiogram]'}
+dicsontinued	["[('discontinued', 2.9307121044271338e-06)]"]	discontinued	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dicsontinued ==> discontinued]'}
+dicsontinued	["[('discontinued', 2.9307121044271338e-06)]"]	discontinued	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dicsontinued ==> discontinued]'}
+dicsontinued	["[('discontinued', 2.9307121044271338e-06)]"]	discontinued	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dicsontinued ==> discontinued]'}
+dicsontinued	["[('discontinued', 2.9307121044271338e-06)]"]	discontinued	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [dicsontinued ==> discontinued]'}
+lukocytosis	["[('leukocytosis', 1.6212664766272145e-06)]"]	leukocytosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lukocytosis ==> leukocytosis]'}
+lukocytosis	["[('leukocytosis', 1.6212664766272145e-06)]"]	leukocytosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [lukocytosis ==> leukocytosis]'}
+divertculi	["[('diverticuli,', 0.9), ('diverticula', 0.9), ('diverticulosis', 0.9), ('diverticulitis', 0.9)]"]	diverticuli,	Changed	{'Corrected - Using MultiEdit Probable Candidates [divertculi ==> diverticuli,]'}
+sduring	["[('during', 0.00013740233389415642)]"]	during	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sduring ==> during]'}
+sduring	["[('during', 0.00013740233389415642)]"]	during	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sduring ==> during]'}
+erythemay	["[('erythema', 2.7156213483505842e-05)]"]	erythema	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [erythemay ==> erythema]'}
+identifie	["[('identified', 2.22924140536242e-05), ('identifier', 2.431899714940822e-06)]"]	identified	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [identifie ==> identified]'}
+identifie	["[('identified', 2.22924140536242e-05), ('identifier', 2.431899714940822e-06)]"]	identified	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [identifie ==> identified]'}
+identifie	["[('identified', 2.22924140536242e-05), ('identifier', 2.431899714940822e-06)]"]	identified	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [identifie ==> identified]'}
+identifie	["[('identified', 2.22924140536242e-05), ('identifier', 2.431899714940822e-06)]"]	identified	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [identifie ==> identified]'}
+identifie	["[('identified', 2.22924140536242e-05), ('identifier', 2.431899714940822e-06)]"]	identified	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [identifie ==> identified]'}
+caucasaian	["[('caucasian', 1.1722848417708535e-05)]"]	caucasian	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [caucasaian ==> caucasian]'}
+sclerosin	["[('sclerosis', 0.00012726941841523633), ('sclerosing', 2.5129630387721826e-05)]"]	sclerosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sclerosin ==> sclerosis]'}
+sclerosin	["[('sclerosis', 0.00012726941841523633), ('sclerosing', 2.5129630387721826e-05)]"]	sclerosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sclerosin ==> sclerosis]'}
+sclerosin	["[('sclerosis', 0.00012726941841523633), ('sclerosing', 2.5129630387721826e-05)]"]	sclerosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sclerosin ==> sclerosis]'}
+sclerosin	["[('sclerosis', 0.00012726941841523633), ('sclerosing', 2.5129630387721826e-05)]"]	sclerosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [sclerosin ==> sclerosis]'}
+brinsg	["[('bring', 0.00042202254303750725)]"]	bring	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [brinsg ==> bring]'}
+brinsg	["[('bring', 0.00042202254303750725)]"]	bring	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [brinsg ==> bring]'}
+brinsg	["[('bring', 0.00042202254303750725)]"]	bring	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [brinsg ==> bring]'}
+brinsg	["[('bring', 0.00042202254303750725)]"]	bring	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [brinsg ==> bring]'}
+brinsg	["[('bring', 0.00042202254303750725)]"]	bring	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [brinsg ==> bring]'}
+coxycx	["[('cox6c', 0.9), ('oxy', 0.9), ('oxc', 0.9), ('cyc', 0.9)]"]	cox6c	Changed	{'Corrected - Using MultiEdit Probable Candidates [coxycx ==> cox6c]'}
+coxycx	["[('cox6c', 0.9), ('oxy', 0.9), ('oxc', 0.9), ('cyc', 0.9)]"]	cox6c	Changed	{'Corrected - Using MultiEdit Probable Candidates [coxycx ==> cox6c]'}
+coxycx	["[('cox6c', 0.9), ('oxy', 0.9), ('oxc', 0.9), ('cyc', 0.9)]"]	cox6c	Changed	{'Corrected - Using MultiEdit Probable Candidates [coxycx ==> cox6c]'}
+coxycx	["[('cox6c', 0.9), ('oxy', 0.9), ('oxc', 0.9), ('cyc', 0.9)]"]	cox6c	Changed	{'Corrected - Using MultiEdit Probable Candidates [coxycx ==> cox6c]'}
+spubsided	["[('subsided', 0.9), ('subsided.', 0.9), ('subsided,', 0.9), ('subside', 0.9)]"]	subsided	Changed	{'Corrected - Using MultiEdit Probable Candidates [spubsided ==> subsided]'}
+tthey	["[('they', 5.269116049038447e-06)]"]	they	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [tthey ==> they]'}
+attempst	["[('attempt', 1.215949857470411e-06)]"]	attempt	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [attempst ==> attempt]'}
+attempst	["[('attempt', 1.215949857470411e-06)]"]	attempt	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [attempst ==> attempt]'}
+attempst	["[('attempt', 1.215949857470411e-06)]"]	attempt	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [attempst ==> attempt]'}
+ventriculostmy	["[('ventriculostomy', 0.9), ('ventriculotomy', 0.9), ('ventriculoplasty', 0.9), ('ventriculo', 0.9)]"]	ventriculostomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [ventriculostmy ==> ventriculostomy]'}
+ventriculostmy	["[('ventriculostomy', 0.9), ('ventriculotomy', 0.9), ('ventriculoplasty', 0.9), ('ventriculo', 0.9)]"]	ventriculostomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [ventriculostmy ==> ventriculostomy]'}
+ventriculostmy	["[('ventriculostomy', 0.9), ('ventriculotomy', 0.9), ('ventriculoplasty', 0.9), ('ventriculo', 0.9)]"]	ventriculostomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [ventriculostmy ==> ventriculostomy]'}
+ventriculostmy	["[('ventriculostomy', 0.9), ('ventriculotomy', 0.9), ('ventriculoplasty', 0.9), ('ventriculo', 0.9)]"]	ventriculostomy	Changed	{'Corrected - Using MultiEdit Probable Candidates [ventriculostmy ==> ventriculostomy]'}
+activiety	["[('activity', 0.00027642593426494005)]"]	activity	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [activiety ==> activity]'}
+activiety	["[('activity', 0.00027642593426494005)]"]	activity	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [activiety ==> activity]'}
+ankes	["[('ankles', 2.026583095784018e-06), ('andes', 4.0531661915680364e-07)]"]	ankles	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ankes ==> ankles]'}
+ankes	["[('ankles', 2.026583095784018e-06), ('andes', 4.0531661915680364e-07)]"]	ankles	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ankes ==> ankles]'}
+ankes	["[('ankles', 2.026583095784018e-06), ('andes', 4.0531661915680364e-07)]"]	ankles	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ankes ==> ankles]'}
+cconjunctival	["[('conjunctival', 6.241875935014775e-05)]"]	conjunctival	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cconjunctival ==> conjunctival]'}
+cconjunctival	["[('conjunctival', 6.241875935014775e-05)]"]	conjunctival	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [cconjunctival ==> conjunctival]'}
+abrrogate	["[('abrogate', 8.7921363132814e-06), ('arrogate', 5.8614242088542675e-06)]"]	abrogate	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [abrrogate ==> abrogate]'}
+ellicited	["[('elicited', 1.4653560522135668e-05)]"]	elicited	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ellicited ==> elicited]'}
+ellicited	["[('elicited', 1.4653560522135668e-05)]"]	elicited	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ellicited ==> elicited]'}
+ellicited	["[('elicited', 1.4653560522135668e-05)]"]	elicited	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ellicited ==> elicited]'}
+ellicited	["[('elicited', 1.4653560522135668e-05)]"]	elicited	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ellicited ==> elicited]'}
+ellicited	["[('elicited', 1.4653560522135668e-05)]"]	elicited	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [ellicited ==> elicited]'}
+levatiracetem	["[('levetiracetam', 0.9), ('levetiracetam.', 0.9), ('levetiracetam,', 0.9), ('levetiracetam*', 0.9)]"]	levetiracetam	Changed	{'Corrected - Using MultiEdit Probable Candidates [levatiracetem ==> levetiracetam]'}
+resulatant	["[('resultant', 1.1722848417708535e-05)]"]	resultant	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [resulatant ==> resultant]'}
+anitiboitc	["[('antibiotic', 0.9), ('lantibiotic', 0.9), ('antibiotics', 0.9), ('antibiotic/', 0.9)]"]	antibiotic	Changed	{'Corrected - Using MultiEdit Probable Candidates [anitiboitc ==> antibiotic]'}
+smade	["[('made', 2.026583095784018e-06), ('shade', 4.0531661915680364e-07)]"]	made	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [smade ==> made]'}
+smade	["[('made', 2.026583095784018e-06), ('shade', 4.0531661915680364e-07)]"]	made	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [smade ==> made]'}
+baselilne	["[('baseline', 1.4653560522135668e-05)]"]	baseline	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [baselilne ==> baseline]'}
+baselilne	["[('baseline', 1.4653560522135668e-05)]"]	baseline	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [baselilne ==> baseline]'}
+baselilne	["[('baseline', 1.4653560522135668e-05)]"]	baseline	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [baselilne ==> baseline]'}
+baselilne	["[('baseline', 1.4653560522135668e-05)]"]	baseline	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [baselilne ==> baseline]'}
+gastroesophgeal	["[('gastroesophageal', 4.45848281072484e-06)]"]	gastroesophageal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [gastroesophgeal ==> gastroesophageal]'}
+gastroesophgeal	["[('gastroesophageal', 4.45848281072484e-06)]"]	gastroesophageal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [gastroesophgeal ==> gastroesophageal]'}
+gastroesophgeal	["[('gastroesophageal', 4.45848281072484e-06)]"]	gastroesophageal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [gastroesophgeal ==> gastroesophageal]'}
+gastroesophgeal	["[('gastroesophageal', 4.45848281072484e-06)]"]	gastroesophageal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [gastroesophgeal ==> gastroesophageal]'}
+gastroesophgeal	["[('gastroesophageal', 4.45848281072484e-06)]"]	gastroesophageal	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [gastroesophgeal ==> gastroesophageal]'}
+nictine	["[('nicotine', 1.986051433868338e-05)]"]	nicotine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nictine ==> nicotine]'}
+nictine	["[('nicotine', 1.986051433868338e-05)]"]	nicotine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [nictine ==> nicotine]'}
+partiallly	["[('partially', 6.890382525665661e-06)]"]	partially	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [partiallly ==> partially]'}
+partiallly	["[('partially', 6.890382525665661e-06)]"]	partially	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [partiallly ==> partially]'}
+partiallly	["[('partially', 6.890382525665661e-06)]"]	partially	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [partiallly ==> partially]'}
+partiallly	["[('partially', 6.890382525665661e-06)]"]	partially	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [partiallly ==> partially]'}
+partiallly	["[('partially', 6.890382525665661e-06)]"]	partially	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [partiallly ==> partially]'}
+diplocci	["[('diploicin', 0.9), ('diploid', 0.9), ('diploic', 0.9), ('diplopic', 0.9)]"]	diploicin	Changed	{'Corrected - Using MultiEdit Probable Candidates [diplocci ==> diploicin]'}
+diplocci	["[('diploicin', 0.9), ('diploid', 0.9), ('diploic', 0.9), ('diplopic', 0.9)]"]	diploicin	Changed	{'Corrected - Using MultiEdit Probable Candidates [diplocci ==> diploicin]'}
+diplocci	["[('diploicin', 0.9), ('diploid', 0.9), ('diploic', 0.9), ('diplopic', 0.9)]"]	diploicin	Changed	{'Corrected - Using MultiEdit Probable Candidates [diplocci ==> diploicin]'}
+diplocci	["[('diploicin', 0.9), ('diploid', 0.9), ('diploic', 0.9), ('diplopic', 0.9)]"]	diploicin	Changed	{'Corrected - Using MultiEdit Probable Candidates [diplocci ==> diploicin]'}
+diplocci	["[('diploicin', 0.9), ('diploid', 0.9), ('diploic', 0.9), ('diplopic', 0.9)]"]	diploicin	Changed	{'Corrected - Using MultiEdit Probable Candidates [diplocci ==> diploicin]'}
+sensatations	["[('sensations', 0.9), ('sensations;', 0.9), ('sensations.', 0.9), ('sensations,', 0.9)]"]	sensations	Changed	{'Corrected - Using MultiEdit Probable Candidates [sensatations ==> sensations]'}
+indiependence	["[('independence', 5.2752817879688406e-05)]"]	independence	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [indiependence ==> independence]'}
+chracteristics	["[('characteristics', 1.6212664766272145e-06)]"]	characteristics	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chracteristics ==> characteristics]'}
+chracteristics	["[('characteristics', 1.6212664766272145e-06)]"]	characteristics	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [chracteristics ==> characteristics]'}
+underdampened	["[('underdamped', 0.9), ('undersampled', 0.9), ('underdocumented', 0.9), ('undermined', 0.9)]"]	underdamped	Changed	{'Corrected - Using MultiEdit Probable Candidates [underdampened ==> underdamped]'}
+underdampened	["[('underdamped', 0.9), ('undersampled', 0.9), ('underdocumented', 0.9), ('undermined', 0.9)]"]	underdamped	Changed	{'Corrected - Using MultiEdit Probable Candidates [underdampened ==> underdamped]'}
+robatussin	['[(\'obtusin\', 0.9), ("roussin\'", 0.9), (\'probasin\', 0.9), (\'obtusin.\', 0.9)]']	obtusin	Changed	{'Corrected - Using MultiEdit Probable Candidates [robatussin ==> obtusin]'}
+robatussin	['[(\'obtusin\', 0.9), ("roussin\'", 0.9), (\'probasin\', 0.9), (\'obtusin.\', 0.9)]']	obtusin	Changed	{'Corrected - Using MultiEdit Probable Candidates [robatussin ==> obtusin]'}
+robatussin	['[(\'obtusin\', 0.9), ("roussin\'", 0.9), (\'probasin\', 0.9), (\'obtusin.\', 0.9)]']	obtusin	Changed	{'Corrected - Using MultiEdit Probable Candidates [robatussin ==> obtusin]'}
+robatussin	['[(\'obtusin\', 0.9), ("roussin\'", 0.9), (\'probasin\', 0.9), (\'obtusin.\', 0.9)]']	obtusin	Changed	{'Corrected - Using MultiEdit Probable Candidates [robatussin ==> obtusin]'}
+robatussin	['[(\'obtusin\', 0.9), ("roussin\'", 0.9), (\'probasin\', 0.9), (\'obtusin.\', 0.9)]']	obtusin	Changed	{'Corrected - Using MultiEdit Probable Candidates [robatussin ==> obtusin]'}
+adrtenergic	["[('adrenergic', 7.701015763979268e-06)]"]	adrenergic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adrtenergic ==> adrenergic]'}
+adrtenergic	["[('adrenergic', 7.701015763979268e-06)]"]	adrenergic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adrtenergic ==> adrenergic]'}
+adrtenergic	["[('adrenergic', 7.701015763979268e-06)]"]	adrenergic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adrtenergic ==> adrenergic]'}
+adrtenergic	["[('adrenergic', 7.701015763979268e-06)]"]	adrenergic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adrtenergic ==> adrenergic]'}
+adrtenergic	["[('adrenergic', 7.701015763979268e-06)]"]	adrenergic	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [adrtenergic ==> adrenergic]'}
+purpuses	["[('purposes', 4.45848281072484e-06)]"]	purposes	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [purpuses ==> purposes]'}
+purpuses	["[('purposes', 4.45848281072484e-06)]"]	purposes	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [purpuses ==> purposes]'}
+eppiplocae	["[('epiploicae', 0.9), ('epiplocele', 0.9), ('epiploic', 0.9), ('propipocaine', 0.9)]"]	epiploicae	Changed	{'Corrected - Using MultiEdit Probable Candidates [eppiplocae ==> epiploicae]'}
+cisplatinin	["[('cisplatin', 0.9), ('cisplatin.', 0.9), ('cisplatin,', 0.9), ('cisplatin)', 0.9)]"]	cisplatin	Changed	{'Corrected - Using MultiEdit Probable Candidates [cisplatinin ==> cisplatin]'}
+studues	["[('studies', 8.511649002292877e-06)]"]	studies	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [studues ==> studies]'}
+studues	["[('studies', 8.511649002292877e-06)]"]	studies	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [studues ==> studies]'}
+studues	["[('studies', 8.511649002292877e-06)]"]	studies	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [studues ==> studies]'}
+studues	["[('studies', 8.511649002292877e-06)]"]	studies	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [studues ==> studies]'}
+sofeners	["[('softener', 0.9), ('offenders', 0.9), ('softens', 0.9), ('soflens', 0.9)]"]	softener	Changed	{'Corrected - Using MultiEdit Probable Candidates [sofeners ==> softener]'}
+sofeners	["[('softener', 0.9), ('offenders', 0.9), ('softens', 0.9), ('soflens', 0.9)]"]	softener	Changed	{'Corrected - Using MultiEdit Probable Candidates [sofeners ==> softener]'}
+creatinnine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creatinnine ==> creatinine]'}
+creatinnine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creatinnine ==> creatinine]'}
+creatinnine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creatinnine ==> creatinine]'}
+creatinnine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creatinnine ==> creatinine]'}
+creatinnine	["[('creatinine', 2.8372163340976255e-06)]"]	creatinine	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [creatinnine ==> creatinine]'}
+stneosis	["[('stenosis', 0.0001892828611462273)]"]	stenosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stneosis ==> stenosis]'}
+stneosis	["[('stenosis', 0.0001892828611462273)]"]	stenosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stneosis ==> stenosis]'}
+stneosis	["[('stenosis', 0.0001892828611462273)]"]	stenosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stneosis ==> stenosis]'}
+stneosis	["[('stenosis', 0.0001892828611462273)]"]	stenosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stneosis ==> stenosis]'}
+stneosis	["[('stenosis', 0.0001892828611462273)]"]	stenosis	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [stneosis ==> stenosis]'}
+oharmacy	["[('pharmacy', 1.75842726265628e-05)]"]	pharmacy	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [oharmacy ==> pharmacy]'}
+espiodes	["[('episodes', 0.9), ('spiroides', 0.9), ('mesiodens', 0.9), ('episodes]', 0.9)]"]	episodes	Changed	{'Corrected - Using MultiEdit Probable Candidates [espiodes ==> episodes]'}
+successufl	["[('successful', 4.9822105775261276e-05)]"]	successful	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [successufl ==> successful]'}
+orificice	["[('orifice', 0.9), ('orifices', 0.9), ('orifice.', 0.9), ('orifice,', 0.9)]"]	orifice	Changed	{'Corrected - Using MultiEdit Probable Candidates [orificice ==> orifice]'}
+aassociated	["[('associated', 0.0003027715145101323)]"]	associated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aassociated ==> associated]'}
+aassociated	["[('associated', 0.0003027715145101323)]"]	associated	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [aassociated ==> associated]'}
+onocology	["[('oncology', 8.7921363132814e-06)]"]	oncology	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [onocology ==> oncology]'}
+onocology	["[('oncology', 8.7921363132814e-06)]"]	oncology	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [onocology ==> oncology]'}
+onocology	["[('oncology', 8.7921363132814e-06)]"]	oncology	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [onocology ==> oncology]'}
+onocology	["[('oncology', 8.7921363132814e-06)]"]	oncology	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [onocology ==> oncology]'}
+onocology	["[('oncology', 8.7921363132814e-06)]"]	oncology	Changed	{'Corrected - Using Single-Edit Probable Candidates in English Corpus [onocology ==> oncology]'}
+apasia	["[('aplasia', 8.187395706967433e-05), ('aphasia', 1.661798138542895e-05), ('abasia', 4.0531661915680364e-07)]"]	aplasia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [apasia ==> aplasia]'}
+apasia	["[('aplasia', 8.187395706967433e-05), ('aphasia', 1.661798138542895e-05), ('abasia', 4.0531661915680364e-07)]"]	aplasia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [apasia ==> aplasia]'}
+apasia	["[('aplasia', 8.187395706967433e-05), ('aphasia', 1.661798138542895e-05), ('abasia', 4.0531661915680364e-07)]"]	aplasia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [apasia ==> aplasia]'}
+apasia	["[('aplasia', 8.187395706967433e-05), ('aphasia', 1.661798138542895e-05), ('abasia', 4.0531661915680364e-07)]"]	aplasia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [apasia ==> aplasia]'}
+apasia	["[('aplasia', 8.187395706967433e-05), ('aphasia', 1.661798138542895e-05), ('abasia', 4.0531661915680364e-07)]"]	aplasia	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [apasia ==> aplasia]'}
+ppulse	["[('pulse', 1.580734814711534e-05)]"]	pulse	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ppulse ==> pulse]'}
+ppulse	["[('pulse', 1.580734814711534e-05)]"]	pulse	Changed	{'Corrected - Using Single-Edit Probable Candidates in Domain Corpus [ppulse ==> pulse]'}
+
+{'drianable', 'infeoseptal', 'phebilitis', 'imprves', 'isordril', 'hypolucency', 'patecheal', 'unlely', 'arteriogrphy', 'autocoidal', 'diplocci', 'antiarrhymatic', 'stablitized', 'requiriemnts', 'underdampened', 'intuabte', 'ureteteral', 'divertculi', 'cerruloplasm', 'sensatations', 'ecchinocytes', 'hematc', 'denises', 'sofeners', 'trancortical', 'phelyephrine', 'diurises', 'precipirtouskly', 'vasoleine', 'resusitaton', 'peunothorax', 'intubabation', 'antiarrrhythmics', 'syndomre', 'popletieal', 'eosoniphils', 'arrythmmia', 'brochodilations', 'tropnins', 'tramodal', 'exctration', 'huggger', 'propfolo', 'thickineng', 'thalasemmia', 'stabilizind', 'ferinosl', 'deveopling', 'abnormalityin', 'iompared', 'hepaotology', 'retroobital', 'levatiracetem', 'carediolgy', 'hypercarbnea', 'respiraoty', 'jypokinesis', 'isoechic', 'senstivites', 'hmeithorax', 'palitave', 'uperr', 'spubsided', 'ferriecit', 'acetazolamind', 'coxycx', 'exstravation', 'prosthese', 'heptacellular', 'psitacci', 'levimere', 'inferolater', 'invadses', 'popletial', 'femerals', 'extingushes', 'interparachymal', 'cefotaxmin', 'pupilarry', 'generenerative', 'agglutin', 'hopitilization', 'glarigine', 'orificice', 'sphyncterotomies', 'desature', 'mininutes', 'cathotomy', 'aggitating', 'dicarded', 'pylenonephritis', 'respoding', 'tomorrowpt', 'myalgais', 'demarginization', 'deniesd', 'ventriculostmy', 'entends', 'prblm', 'lichanified', 'sennekot', 'sympots', 'eppiplocae', 'calmmed', 'downgoin', 'espiodes', 'enteracept', 'splemectomy', 'hypokiinesis', 'nondiagnositic', 'enahncing', 'parafaulcine', 'respositions', 'rgoins', 'cardiognitc', 'supralilar', 'pleurodeses', 'miacalicin', 'nygstamus', 'intubwted', 'gentteal', 'anitiboitc', 'arimdex', 'rehospialization', 'robatussin', 'cisplatinin', 'immunosuppresents', 'eneteroscopy', 'neoptlams', 'colisitina', 'persistenting', 'intrgrillin', 'zyprexax'}
